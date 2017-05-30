@@ -1,0 +1,18 @@
+- Vr�tit restrikci na API map kl��
+https://console.developers.google.com/apis/credentials/key/34?project=api-project-914763258724&authuser=1
+*.rpilates.cz/*
+*.bujabeza.cz/*
+
+- dodat favicon
+
+- menu na mobilech nemá pozadí, podmenu pak nejdou vidět, dodat nějaké pozadí nebo hover
+
+- napsat Jarče ať si založí FB a Linked profil a navázat do footer
+
+- footer todo promo text
+
+- mapa způsobuje že se zobrazuje scrollbar dole pod footer
+
+- bacha na texty, někde plurár (o nás), někde singulár (o mě) apod.. pak projít a sjednotit
+
+- font Adamina má problém s ř
