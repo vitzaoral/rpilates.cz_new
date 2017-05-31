@@ -5,7 +5,7 @@ $(document).ready(function() {
   $("#slider").owlCarousel({
     singleItem: true,
     pagination: true,
-    autoPlay: 5000, // rychlost vymeny slidu
+    autoPlay: 10000, // rychlost vymeny slidu
     stopOnHover:true,
     navigation: true,
     navigationText : ["<i class='fa fa-angle-left'></i>","<i class='fa fa-angle-right'></i>"],
