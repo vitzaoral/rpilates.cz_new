@@ -1,3 +1,6 @@
+GIT https://github.com/vitzaoral/rpilates.cz_new/commits/master
+
+
 - Vr�tit restrikci na API map kl��
 https://console.developers.google.com/apis/credentials/key/34?project=api-project-914763258724&authuser=1
 *.rpilates.cz/*
@@ -15,4 +18,7 @@ https://console.developers.google.com/apis/credentials/key/34?project=api-projec
 
 - bacha na texty, někde plurár (o nás), někde singulár (o mě) apod.. pak projít a sjednotit
 
-- font Adamina má problém s ř
+- font Adamina má problém s ř, použít Roboto nebo se mrknout jestli má google jiné
+
+
+

@@ -2,7 +2,7 @@ $(document).ready(function() {
  "use strict";
   $("#service-thumbnail").owlCarousel({
  
-      autoPlay: 3000, //Set AutoPlay to 3 seconds
+      autoPlay: 5000, // posun po 5 sekundach
  
       items : 3,
       itemsDesktop : [1199,3],
