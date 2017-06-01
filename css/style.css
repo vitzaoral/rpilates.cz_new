@@ -138,6 +138,10 @@ strong {
 	margin-bottom: 20px;
 }
 
+.clear{
+	clear: both;
+}
+
 
 /**** Buttons CSS ****/
 

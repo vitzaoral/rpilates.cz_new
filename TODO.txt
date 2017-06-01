@@ -23,7 +23,11 @@ https://console.developers.google.com/apis/credentials/key/34?project=api-projec
 - titul Mgr. at BC.? Nejasná věta kde jsem vystudovala magisterský
             obor <strong>Fyzioterapie</strong> a bakalářský obor <strong>Aplikované pohybové aktivity</strong>, na který jsem navázala studiem doktorským.</p - na co navazala phd?
 
-- ceník na indexu - pravá strana je níž     , dělá to btn třída       
+- ceník na indexu - pravá strana je níž     , dělá to btn třída   
+
+- dodělat keywords, titles ...
+
+- google analytics    
 
 
 
