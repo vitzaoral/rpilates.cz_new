@@ -25,9 +25,12 @@ https://console.developers.google.com/apis/credentials/key/34?project=api-projec
 
 - ceník na indexu - pravá strana je níž     , dělá to btn třída   
 
-- dodělat keywords, titles ...
+- dodělat keywords, titles ..., <html lang="en"> ...
 
 - google analytics    
 
+- PHP include menu a footer <? include "sloupecek.html"; ?>
+
+- pokud bz bzlo moc casu tak cenik do PHP :)
 
 
