@@ -2448,6 +2448,11 @@ blockquote.left-quote {
 	margin-bottom: 60px;
 }
 
+.location-map-contact {
+	margin-bottom: 120px;
+	margin-top: -10em;
+}
+
 .location-block {}
 
 .location-block .well-block {
