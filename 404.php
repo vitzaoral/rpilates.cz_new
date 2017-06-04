@@ -34,47 +34,9 @@
 </head>
 
 <body>
-  <!-- /.navbar-top-end -->
-  <div class="header">
-    <div class="navigation">
-      <!-- navigation-start -->
-      <div class="container">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-          <a class="navbar-brand" href="#"><img class="img-responsive" src="images/logo.svg" alt="Rpilates.cz"></a>
-        </div>
-        <div class="navbar-right">
-          <div id="navigation">
-            <ul>
-              <li class="active"> <a href="#">Úvod</a>
-              </li>
-              <li><a href="aboutus.html">O mě</a></li>
-              <li> <a href="gallery.html">Galerie </a>
-              </li>
-              <li> <a href="service.html">Služby </a>
-                <ul>
-                  <li><a href="service-rehabilitation.html">Rehabilitace</a></li>
-                  <li><a href="service-physiotherapy.html">Sportovní fyzioterapie</a></li>
-                  <li><a href="service-diagnostics.html">Masáže</a></li>
-                  <li><a href="service-manual-therapy.html">Skupinové zdravotní cvičení</a></li>
-                  <li><a href="service-massage-therapy.html">Pilates - joga - powerjoga</a></li>
-                  <li><a href="service-acupuncture.html">Poradenství - víkendové kurzy</a></li>
-                </ul>
-              </li>
-              <li> <a href="pricing-page.html">Ceník </a>
-              </li>
-              <li> <a href="#">Rezervace </a>
-              </li>
-              <li> <a href="appointment-form.html">Kontakt </a>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <!-- /.container-end -->
-    </div>
-    <!-- /.navigation-end -->
-  </div>
+  <!-- menu -->
+  <?php $page = '404'; include "templates/menu.php" ?>
+
   <div class="page-header">
     <!-- page-header -->
     <div class="container">

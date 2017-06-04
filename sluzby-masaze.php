@@ -33,60 +33,22 @@
 </head>
 
 <body>
-
-  <div class="header">
-    <div class="navigation">
-      <!-- navigation-start -->
-      <div class="container">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-          <a class="navbar-brand" href="#"><img class="img-responsive" src="images/logo.svg" alt="Rpilates.cz"></a>
-        </div>
-        <div class="navbar-right">
-          <div id="navigation">
-            <ul>
-              <li class="active"> <a href="#">Úvod</a>
-              </li>
-              <li><a href="aboutus.html">O mě</a></li>
-              <li> <a href="gallery.html">Galerie </a>
-              </li>
-              <li> <a href="service.html">Služby </a>
-                <ul>
-                  <li><a href="service-rehabilitation.html">Rehabilitace</a></li>
-                  <li><a href="service-physiotherapy.html">Sportovní fyzioterapie</a></li>
-                  <li><a href="service-diagnostics.html">Masáže</a></li>
-                  <li><a href="service-manual-therapy.html">Skupinové zdravotní cvičení</a></li>
-                  <li><a href="service-massage-therapy.html">Pilates - joga - powerjoga</a></li>
-                  <li><a href="service-acupuncture.html">Poradenství - víkendové kurzy</a></li>
-                </ul>
-              </li>
-              <li> <a href="pricing-page.html">Ceník </a>
-              </li>
-              <li> <a href="#">Rezervace </a>
-              </li>
-              <li> <a href="appointment-form.html">Kontakt </a>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <!-- /.container-end -->
-    </div>
-    <!-- /.navigation-end -->
-  </div>
+  <!-- menu -->
+  <?php $page = 'service'; include "templates/menu.php" ?>
 
   <div class="page-header">
     <!-- page-header -->
     <div class="container">
       <div class="row">
         <div class="col-md-12 page-title">
-          <h1>Mgr. Jarmila Štěpánová</h1>
+          <h1>Masáže</h1>
         </div>
         <div class="col-md-12">
           <!-- breadcrumb -->
           <ol class="breadcrumb">
-            <li><a href="index.html">Úvod</a></li>
-            <li class="active">O mě</li>
+            <li><a href="index.php">Úvod</a></li>            
+            <li><a href="sluzby.php">Seznam služeb</a></li>
+            <li class="active">Masáže</li>
           </ol>
         </div>
         <!-- /.breadcrumb -->
@@ -94,48 +56,60 @@
     </div>
   </div>
   <!-- /.page-header -->
+
   <div class="main-container">
     <!-- main-container -->
     <div class="container">
-      <div class="row trainer-profile">
-        <div class="col-md-4 trainer-block">
-          <div class="trainer-pic zoom-pic"> <a href="#"> <img src="images/trainer-2.jpg" alt="" class="img-responsive"></a></div>
-          <div class="trainer-caption">
-            <h2>Mgr. Jarmila Štěpánová</h2>
-            <span class="trainer-meta">fyzioterapeut</span> </div>
+      <div class="row">
+        <div class="col-md-8 content-left">
+          <div class="row">
+            <div class="col-md-12">
+              <p class="lead">Masáže jsou vhodným prostředkem ke zmírňování bolesti, napětí a stresu.</p>
+              <p>Pomáhají zlepšit krevní oběh a uvolňují napětí organizmu. Nabízím masáže celkové – celotělové – obvyklá délka
+                procedury je 60 minut, nebo částečné (oblasti šíje, zad, dolních končetin, plosky, pánve, hrudníku, břicha)
+                s obvyklou délkou procedury 30 minut. Masáže je vhodné kombinovat s procedurami termoterapie (předehřátí
+                za pomoci rašelinových sáčků, lávových kamenů, gelových sáčků) a aromaterapie.
+              </p>
+              <p class="lead">Druhy masáží</p>
+              <ul class="listnone circle-right">
+                <li>Masáže klasické</li>
+                <li>Masáže reflexní</li>
+                <li>Masáže sportovní</li>
+                <li>Masáže horkými lávovými kameny</li>               
+              </ul>              
+              <div class="service-img zoom-pic"> <img src="images/service-8.jpg" alt="" class="img-responsive"></div>
+            </div>
+          </div>
         </div>
-        <div class="col-md-offset-1 col-md-7 profile-desciption">
-          <h5 class="small-title left">O mě</h5>
-          <p class="lead">Mojí alma mater se stala Fakulta tělesné kultury Univerzity Palackého v Olomouci, kde jsem vystudovala magisterský
-            obor Fyzioterapie a bakalářský obor Aplikované pohybové aktivity, na který jsem navázala studiem doktorským.</p>
-          <p>Propojení jmenovaných oborů mě předurčilo k zaměření se na oblast sportovní fyzioterapie a léčebné tělesné výchovy.
-            K rozvoji mé fyzioterapeutické praxe přispěly zahraniční stáže ve sportovně rehabilitačním ústavu v Norsku a
-            Velké Británii a následně praxe v České republice zahrnující zařízení ambulantního, nemocničního i lázeňského
-            typu. </p>
-          <h5 class="small-title left">S kým spolupracuji</h5>
-          <div class="col-md-12">
-            <ul class="listnone circle-right ">
-              <li>Česká reprezentace neslyšících sportovců</li>
-              <li>Fakulta tělesné kultury UPOL (výuka Pilates metody pro české i zahraniční studenty)</li>
-              <li>Dámský házenkářský klub Zora Olomouc </li>
-            </ul>
+        <div class="col-md-4 sidebar">
+          <!-- sidebar -->
+          <div class="row">
+            <div class="col-md-12">
+              <div class="widget service">
+                <!-- service -->
+                <h2 class="widget-title">Seznam služeb</h2>
+                <ul class="listnone chevron-circle-right">
+                  <li><a href="#">Rehabilitace</a></li>
+                  <li><a href="#"> Sportovní fyzioterapie</a></li>
+                  <li class="active"><a href="#">Masáže</a></li>
+                  <li><a href="#">Skupinové zdravotní cvičení</a></li>
+                  <li><a href="#">Pilates – jóga – powerjóga</a></li>
+                  <li><a href="#">Poradenství – víkendové kurzy</a></li>
+                </ul>
+              </div>
+              <!-- /.service -->
+            </div>
+            <div class="col-md-12">
+              <div class="widget widget-price">
+                <!-- service -->
+                <h2 class="widget-title">Ceník a rezervace</h2>
+                <p>Více informací o ceně masáží zjistíte v ceníku</p>
+                <a href="#" class="btn btn-default hvr-sweep-to-right">Ceník a rezervace ></a>
+              </div>
+              <!-- /.service -->
+            </div>
           </div>
-          <div class="clear"></div>
-          <h5 class="small-title left">Vzdělání a odborné kurzy</h5>
-          <div class="col-md-12">
-            <ul class="listnone circle-right ">
-              <li>Osvědčení o výkonu zdravotnického povolání bez odborného dohledu (únor 2012)</li>
-              <li>Kurz Diagnostika a terapie funkčních poruch pohybového systému</li>
-              <li>Kurz Dynamické neuromuskulární stabilizace (koncept prof. Pavla Koláře)</li>
-              <li>Kurz Vojtovy reflexní lokomoce „A“</li>
-              <li>Kurz Medical taping concept</li>
-              <li>Kurz Terapeutické cvičení na lanech – Redcord systém, program Neurac</li>
-              <li>Instruktor Pilates metody, zaměření na Medical Pilates</li>
-              <li>Instruktor powerjógy</li>
-              <li>Instruktor nordic walking</li>
-            </ul>
-          </div>
-          <a href="#" class="btn btn-default hvr-sweep-to-right">Poskytované služby</a> </div>
+        </div>
       </div>
     </div>
   </div>
@@ -197,6 +171,8 @@
   <!-- sticky Header -->
   <script type="text/javascript" src="js/jquery.sticky.js"></script>
   <script type="text/javascript" src="js/sticky-header.js"></script>
+
+
 </body>
 
 </html>

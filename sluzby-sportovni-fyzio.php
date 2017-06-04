@@ -33,60 +33,22 @@
 </head>
 
 <body>
-  <!-- /.navbar-top-end -->
-  <div class="header">
-    <div class="navigation">
-      <!-- navigation-start -->
-      <div class="container">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-          <a class="navbar-brand" href="#"><img class="img-responsive" src="images/logo.svg" alt="Rpilates.cz"></a>
-        </div>
-        <div class="navbar-right">
-          <div id="navigation">
-            <ul>
-              <li class="active"> <a href="#">Úvod</a>
-              </li>
-              <li><a href="aboutus.html">O mě</a></li>
-              <li> <a href="gallery.html">Galerie </a>
-              </li>
-              <li> <a href="service.html">Služby </a>
-                <ul>
-                  <li><a href="service-rehabilitation.html">Rehabilitace</a></li>
-                  <li><a href="service-physiotherapy.html">Sportovní fyzioterapie</a></li>
-                  <li><a href="service-diagnostics.html">Masáže</a></li>
-                  <li><a href="service-manual-therapy.html">Skupinové zdravotní cvičení</a></li>
-                  <li><a href="service-massage-therapy.html">Pilates - joga - powerjoga</a></li>
-                  <li><a href="service-acupuncture.html">Poradenství - víkendové kurzy</a></li>
-                </ul>
-              </li>
-              <li> <a href="pricing-page.html">Ceník </a>
-              </li>
-              <li> <a href="#">Rezervace </a>
-              </li>
-              <li> <a href="appointment-form.html">Kontakt </a>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <!-- /.container-end -->
-    </div>
-    <!-- /.navigation-end -->
-  </div>
+  <!-- menu -->
+  <?php $page = 'service'; include "templates/menu.php" ?>
+
   <div class="page-header">
     <!-- page-header -->
     <div class="container">
       <div class="row">
         <div class="col-md-12 page-title">
-          <h1>Pilates – jóga – powerjóga</h1>
+          <h1>Sportovní fyzioterapie</h1>
         </div>
         <div class="col-md-12">
           <!-- breadcrumb -->
           <ol class="breadcrumb">
-            <li><a href="index.html">Úvod</a></li>
-            <li><a href="index.html">Seznam služeb</a></li>
-            <li class="active">Pilates – jóga – powerjóga</li>
+            <li><a href="index.php">Úvod</a></li>
+            <li><a href="sluzby.php">Seznam služeb</a></li>
+            <li class="active">Sportovní fyzioterapie</li>            
           </ol>
         </div>
         <!-- /.breadcrumb -->
@@ -103,33 +65,19 @@
         <div class="col-md-8 content-left">
           <div class="row">
             <div class="col-md-12">
-              <p class="lead">Lekce Pilates a jógy probíhají od září do června formou tříměsíčních kurzů.</p>
-              <p>Cvičení probíhá vždy v uzavřené skupině maximálně 7 osob, což umožňuje individuální přístup ke každému klientovi.
-                Nejprve budou otevírány kurzy pro začátečníky a dle poptávky i pro středně pokročilé a pokročilé.
+              <p class="lead">Sportovní fyzioterapie je určena profesionálním i amatérským sportovcům, kteří chtějí zvyšovat svoji výkonnost
+                na profesionální úrovni.</p>
+              <p>Tito sportovci chtějí předcházet zranění, přetížení, správně posilovat a regenerovat. Pomohu i s léčbou sportovních
+                úrazů pro rychlejší návrat do tréninkového procesu.
               </p>
-              <p>Aby byly jóga či Pilates cvičeny správně, je velice důležité naučit se vnímat základní principy cvičení (dýchání,
-                koncentrace, centrace, plynulost, přesnost) a používat je automaticky při každém cviku z jednotlivých sestav.
-                Je důležité, aby cvičení bylo odborně vedeno a kontrolováno. Pokud se technika cvičení Pilates i jógy neprovádí
-                bez precizního zařazení základních principů, stává se cvičení nebezpečným a může klientovi přivodit zdravotní
-                problémy, eventuálně zhoršit jeho aktuální stav. Pokud ale pochopíte a přijmete základní principy, tak vám
-                toto cvičení pomůže změnit tělesný vzhled i duševní rozpoložení.
+              <p>V rámci prevence sportovních úrazů se zaměřuji na edukaci vhodné formy stretchingu, efektivizaci specifického
+                sportovního pohybu (odbití míče, došlap, výskok…), korekci držení těla v průběhu posilování, sestavení funkčního
+                kondičního rehabilitačního tréninku a výběr vhodné formy kompenzačního cvičení.
               </p>
-              <p>Pokud vám nevyhovují termíny a časy volně přístupných lekcí nabízených přes on-line rezervační systém nebo
-                vám nevyhovuje cvičení s větším počtem cizích osob, vytvořte si vlastní skupinu a zavolejte si o termín privátních
-                kurzů.
-              </p>
-              <p class="lead">Nabízím 12ti hodinové kurzy Pilates metody</p>
+              <p class="lead">Nabídka</p>
               <ul class="listnone circle-right">
-                <li>Kurz Pilates pro začátečníky</li>
-                <li>Kurz Pilates pro středně pokročilé</li>
-                <li>Kurz Pilates pro pokročilé</li>
-                <li>Kurz Pilates pro pokročilé – cvičení na válci (Pilates roller)</li>
-              </ul>
-              <p class="lead">Nabízím 12ti hodinové kurzy jógy (vede cvičitelka jógy s dlouhodobou praxí)</p>
-              <ul class="listnone circle-right">
-                <li>Kurz pro začátečníky</li>
-                <li>Kurz pro středně pokročilé</li>
-                <li>Kurz pro pokročilé</li>
+                <li>Vyšetření (kineziologický rozbor, rozbor sportovní činnosti)</li>
+                <li>Individuální terapie trvající 30 min, 45 min nebo 60 min (dle domluvy a rozsahu obtíží)</li>
               </ul>
               <div class="service-img zoom-pic"> <img src="images/service-8.jpg" alt="" class="img-responsive"></div>
             </div>
@@ -144,10 +92,10 @@
                 <h2 class="widget-title">Seznam služeb</h2>
                 <ul class="listnone chevron-circle-right">
                   <li><a href="#">Rehabilitace</a></li>
-                  <li><a href="#"> Sportovní fyzioterapie</a></li>
+                  <li class="active"><a href="#"> Sportovní fyzioterapie</a></li>
                   <li><a href="#">Masáže</a></li>
                   <li><a href="#">Skupinové zdravotní cvičení</a></li>
-                  <li class="active"><a href="#">Pilates – jóga – powerjóga</a></li>
+                  <li><a href="#">Pilates – jóga – powerjóga</a></li>
                   <li><a href="#">Poradenství – víkendové kurzy</a></li>
                 </ul>
               </div>
@@ -157,7 +105,7 @@
               <div class="widget widget-price">
                 <!-- service -->
                 <h2 class="widget-title">Ceník a rezervace</h2>
-                <p>Více informací o ceně pilates, jógy nebo powerjógy zjistíte v ceníku</p>
+                <p>Více informací o ceně sportovní fyzioterapie zjistíte v ceníku</p>
                 <a href="#" class="btn btn-default hvr-sweep-to-right">Ceník a rezervace ></a>
               </div>
               <!-- /.service -->

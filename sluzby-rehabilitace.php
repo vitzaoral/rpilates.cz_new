@@ -33,60 +33,22 @@
 </head>
 
 <body>
-  <!-- /.navbar-top-end -->
-  <div class="header">
-    <div class="navigation">
-      <!-- navigation-start -->
-      <div class="container">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-          <a class="navbar-brand" href="#"><img class="img-responsive" src="images/logo.svg" alt="Rpilates.cz"></a>
-        </div>
-        <div class="navbar-right">
-          <div id="navigation">
-            <ul>
-              <li class="active"> <a href="#">Úvod</a>
-              </li>
-              <li><a href="aboutus.html">O mě</a></li>
-              <li> <a href="gallery.html">Galerie </a>
-              </li>
-              <li> <a href="service.html">Služby </a>
-                <ul>
-                  <li><a href="service-rehabilitation.html">Rehabilitace</a></li>
-                  <li><a href="service-physiotherapy.html">Sportovní fyzioterapie</a></li>
-                  <li><a href="service-diagnostics.html">Masáže</a></li>
-                  <li><a href="service-manual-therapy.html">Skupinové zdravotní cvičení</a></li>
-                  <li><a href="service-massage-therapy.html">Pilates - joga - powerjoga</a></li>
-                  <li><a href="service-acupuncture.html">Poradenství - víkendové kurzy</a></li>
-                </ul>
-              </li>
-              <li> <a href="pricing-page.html">Ceník </a>
-              </li>
-              <li> <a href="#">Rezervace </a>
-              </li>
-              <li> <a href="appointment-form.html">Kontakt </a>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <!-- /.container-end -->
-    </div>
-    <!-- /.navigation-end -->
-  </div>
+  <!-- menu -->
+  <?php $page = 'service'; include "templates/menu.php" ?>
+
   <div class="page-header">
     <!-- page-header -->
     <div class="container">
       <div class="row">
         <div class="col-md-12 page-title">
-          <h1>Sportovní fyzioterapie</h1>
+          <h1>Rehabilitace</h1>
         </div>
         <div class="col-md-12">
           <!-- breadcrumb -->
           <ol class="breadcrumb">
-            <li><a href="index.html">Úvod</a></li>
-            <li><a href="index.html">Seznam služeb</a></li>
-            <li class="active">Sportovní fyzioterapie</li>            
+            <li><a href="index.php">Úvod</a></li>
+            <li><a href="sluzby.php">Seznam služeb</a></li>
+            <li class="active">Rehabilitace</li>            
           </ol>
         </div>
         <!-- /.breadcrumb -->
@@ -103,18 +65,31 @@
         <div class="col-md-8 content-left">
           <div class="row">
             <div class="col-md-12">
-              <p class="lead">Sportovní fyzioterapie je určena profesionálním i amatérským sportovcům, kteří chtějí zvyšovat svoji výkonnost
-                na profesionální úrovni.</p>
-              <p>Tito sportovci chtějí předcházet zranění, přetížení, správně posilovat a regenerovat. Pomohu i s léčbou sportovních
-                úrazů pro rychlejší návrat do tréninkového procesu.
+              <p class="lead">Při terapii využívám širokou paletu terapeutických konceptů, metod a technik, ve kterých jsem byla odborně
+                vzdělána a proškolena.</p>
+              <p>Mým cílem je poskytnout Vám maximum terapeutických možností pro příznivé ovlivnění akutního či chronického
+                stavu onemocnění Vašeho pohybového aparátu. Standardem léčby je odborné fyzioterapeutické vyšetření (tzv.
+                kineziologický rozbor), na jehož základě se stanovují následné terapeutické cíle a vybírají vhodné terapeutické
+                postupy.
               </p>
-              <p>V rámci prevence sportovních úrazů se zaměřuji na edukaci vhodné formy stretchingu, efektivizaci specifického
-                sportovního pohybu (odbití míče, došlap, výskok…), korekci držení těla v průběhu posilování, sestavení funkčního
-                kondičního rehabilitačního tréninku a výběr vhodné formy kompenzačního cvičení.
-              </p>
+              <p class="lead">Prostřednictvím individuální terapie se zaměřuji na níže uvedené indikační skupiny u dětí i dospělých</p>
+              <ul class="listnone circle-right">
+                <li>Akutní a chronické bolestivé stavy pohybového aparátu (páteře, kloubů, svalů, svalových úponů, šlach a svalů)</li>
+                <li>Obtíže spojené s funkčními poruchami pohybového aparátu (kloubní blokády, svalové spazmy, problematika jizev)</li>
+                <li>Stavy po traumatických postiženích (stavy po zlomeninách, poranění vazů, šlach a svalů, stavy po úrazech
+                  a operacích páteře)</li>
+                <li>Ortopedická a revmatologická onemocnění (skolióza, degenerativní onemocnění – artrózy nosných kloubů, revmatoidní
+                  artritida, Bechtěrevova nemoc)</li>
+                <li>Gynekologické problémy s příčinnou potíží na úrovni pohybového aparátu (bolestivá menstruace, funkční sterilita
+                  žen, močová inkontinence, bolestivá kostrč)</li>
+                <li>Individuální terapie v průběhu těhotenství a po porodu</li>
+                <li>Vadné držení těla u dětí</li>
+                <li>Neurologická onemocnění (stav po cévní mozkové příhodě, roztroušená skleróza, stavy po obrnách periferních
+                  nervů, např. lícního nervu, výhřezy plotének s případným útlakem nervu)</li>
+              </ul>
               <p class="lead">Nabídka</p>
               <ul class="listnone circle-right">
-                <li>Vyšetření (kineziologický rozbor, rozbor sportovní činnosti)</li>
+                <li>Vyšetření (kineziologický rozbor, orientační neurologické a ortopedické vyšetření) </li>
                 <li>Individuální terapie trvající 30 min, 45 min nebo 60 min (dle domluvy a rozsahu obtíží)</li>
               </ul>
               <div class="service-img zoom-pic"> <img src="images/service-8.jpg" alt="" class="img-responsive"></div>
@@ -129,8 +104,8 @@
                 <!-- service -->
                 <h2 class="widget-title">Seznam služeb</h2>
                 <ul class="listnone chevron-circle-right">
-                  <li><a href="#">Rehabilitace</a></li>
-                  <li class="active"><a href="#"> Sportovní fyzioterapie</a></li>
+                  <li class="active"><a href="#">Rehabilitace</a></li>
+                  <li><a href="#"> Sportovní fyzioterapie</a></li>
                   <li><a href="#">Masáže</a></li>
                   <li><a href="#">Skupinové zdravotní cvičení</a></li>
                   <li><a href="#">Pilates – jóga – powerjóga</a></li>
@@ -143,11 +118,11 @@
               <div class="widget widget-price">
                 <!-- service -->
                 <h2 class="widget-title">Ceník a rezervace</h2>
-                <p>Více informací o ceně sportovní fyzioterapie zjistíte v ceníku</p>
+                <p>Více informací o ceně rehabilitace zjistíte v ceníku</p>
                 <a href="#" class="btn btn-default hvr-sweep-to-right">Ceník a rezervace ></a>
               </div>
               <!-- /.service -->
-            </div>
+            </div>           
           </div>
         </div>
       </div>
