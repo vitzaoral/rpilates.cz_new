@@ -151,109 +151,109 @@
         </div>
       </div>
     </div>
+  </div>
 
-    <div class="parallax-cta parallax parallax-2">
-      <!-- parallax cta -->
-      <div class="container">
-        <div class="row">
-          <div class="col-md-offset-2 col-md-8">
-            <h1>Mgr. Jarmila Štěpánová</h1>
-            <p>Jmenuji se Jarmila Štěpánová a vítám Vás na svých stránkách R pilates studia.</p>
-            <p>Mojí alma mater se stala Fakulta tělesné kultury Univerzity Palackého v Olomouci, kde jsem vystudovala magisterský
-              obor <strong>Fyzioterapie</strong> a bakalářský obor <strong>Aplikované pohybové aktivity</strong>, na který
-              jsem navázala studiem doktorským.</p>
-            <p>Propojení jmenovaných oborů mě předurčilo k zaměření se na oblast sportovní fyzioterapie a léčebné tělesné výchovy.</p>
-            <p>K rozvoji mé fyzioterapeutické praxe přispěly zahraniční stáže ve sportovně rehabilitačním ústavu v Norsku a
-              Velké Británii a následně praxe v České republice zahrnující zařízení ambulantního, nemocničního i lázeňského
-              typu.
-            </p>
-            <a href=<?php echo ABOUT ?> class="btn btn-default hvr-sweep-to-right">Více o mě</a> </div>
-        </div>
+  <div class="parallax-cta parallax parallax-2">
+    <!-- parallax cta -->
+    <div class="container">
+      <div class="row">
+        <div class="col-md-offset-2 col-md-8">
+          <h1>Mgr. Jarmila Štěpánová</h1>
+          <p>Jmenuji se Jarmila Štěpánová a vítám Vás na svých stránkách R pilates studia.</p>
+          <p>Mojí alma mater se stala Fakulta tělesné kultury Univerzity Palackého v Olomouci, kde jsem vystudovala magisterský
+            obor <strong>Fyzioterapie</strong> a bakalářský obor <strong>Aplikované pohybové aktivity</strong>, na který
+            jsem navázala studiem doktorským.</p>
+          <p>Propojení jmenovaných oborů mě předurčilo k zaměření se na oblast sportovní fyzioterapie a léčebné tělesné výchovy.</p>
+          <p>K rozvoji mé fyzioterapeutické praxe přispěly zahraniční stáže ve sportovně rehabilitačním ústavu v Norsku a Velké
+            Británii a následně praxe v České republice zahrnující zařízení ambulantního, nemocničního i lázeňského typu.
+          </p>
+          <a href=<?php echo ABOUT ?> class="btn btn-default hvr-sweep-to-right">Více o mě</a> </div>
       </div>
     </div>
+  </div>
 
-    <div class="section-space section-color">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12 pricing-block">
-            <!-- pricing-block -->
-            <div class="row">
-              <div class="col-md-4 pricing-desc">
-                <!-- pricing-desc -->
-                <h1>Ceník a rezervace</h1>
-                <p>Na jednotlivé programy se lze rezervovat online nebo telefonicky. Případné zrušení rezervovaného termínu
-                  je třeba nahlásit minimálně 24 hodin předem na tel. čísle: 774 988 156.
-                </p>
-                <?php include "templates/reservanto.html" ?>
-              </div>
+  <div class="section-space section-color">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 pricing-block">
+          <!-- pricing-block -->
+          <div class="row">
+            <div class="col-md-4 pricing-desc">
               <!-- pricing-desc -->
-              <div class="col-md-offset-1 col-md-7 pricing-table">
-                <!-- pricing-table -->
-                <ul class="list-group">
-                  <li class="list-group-item active">Nabízené služby <span class="pull-right price">Ceník</span></li>
-                  <li class="list-group-item price-list">Rehabilitace <small>(vyšetření, individuální terapie)</small>
-                    <a href=<?php echo PRICING . "#service1" ?> class="btn hvr-sweep-to-right pull-right">Ceník >></a>
-                  </li>
-                  <li class="list-group-item price-list">Masáže <small>(30 - 60 min + další služby)</small>
-                    <a href=<?php echo PRICING . "#service2" ?> class="btn hvr-sweep-to-right pull-right">Ceník >></a>
-                  </li>
-                  <li class="list-group-item price-list">Zdravotní cvičení skupinové<small>(privátní / veřejné, 60 min)</small>
-                    <a href=<?php echo PRICING . "#service3" ?> class="btn hvr-sweep-to-right pull-right">Ceník >></a>
-                  </li>
-                  <li class="list-group-item price-list">Joga, pilates, powerjoga skupinové<small>(privátní / veřejné, 60 min)</small>
-                    <a href=<?php echo PRICING . "#service5" ?> class="btn hvr-sweep-to-right pull-right">Ceník >></a>
-                  </li>
-                  <li class="list-group-item price-list">Zdravotní cvičení na systému REDCORD<small>(privátní, 60 min)</small>
-                    <a href=<?php echo PRICING . "#service7" ?> class="btn hvr-sweep-to-right pull-right">Ceník >></a>
-                  </li>
-                  <li class="list-group-item price-list">Víkendový vzdělávací kurz <small>(4 hod)</small>
-                    <a href=<?php echo PRICING . "#service8" ?> class="btn hvr-sweep-to-right pull-right">Ceník >></a>
-                  </li>
-                </ul>
-              </div>
-              <!-- /.pricing-table -->
+              <h1>Ceník a rezervace</h1>
+              <p>Na jednotlivé programy se lze rezervovat online nebo telefonicky. Případné zrušení rezervovaného termínu je
+                třeba nahlásit minimálně 24 hodin předem na tel. čísle: 774 988 156.
+              </p>
+              <?php include "templates/reservanto.html" ?>
             </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-5 section-title">
-            <h1>Kde nás najdete</h1>
-            <h5 class="small-title left">Naše adresa</h5>
-          </div>
-          <div class="col-md-7">
-            <p class="lead">Adresa provozovny:
-              <?php echo ADDRESS ?>.</p>
+            <!-- pricing-desc -->
+            <div class="col-md-offset-1 col-md-7 pricing-table">
+              <!-- pricing-table -->
+              <ul class="list-group">
+                <li class="list-group-item active">Nabízené služby <span class="pull-right price">Ceník</span></li>
+                <li class="list-group-item price-list">Rehabilitace <small>(vyšetření, individuální terapie)</small>
+                  <a href=<?php echo PRICING . "#service1" ?> class="btn hvr-sweep-to-right pull-right">Ceník >></a>
+                </li>
+                <li class="list-group-item price-list">Masáže <small>(30 - 60 min + další služby)</small>
+                  <a href=<?php echo PRICING . "#service2" ?> class="btn hvr-sweep-to-right pull-right">Ceník >></a>
+                </li>
+                <li class="list-group-item price-list">Zdravotní cvičení skupinové<small>(privátní / veřejné, 60 min)</small>
+                  <a href=<?php echo PRICING . "#service3" ?> class="btn hvr-sweep-to-right pull-right">Ceník >></a>
+                </li>
+                <li class="list-group-item price-list">Joga, pilates, powerjoga skupinové<small>(privátní / veřejné, 60 min)</small>
+                  <a href=<?php echo PRICING . "#service5" ?> class="btn hvr-sweep-to-right pull-right">Ceník >></a>
+                </li>
+                <li class="list-group-item price-list">Zdravotní cvičení na systému REDCORD<small>(privátní, 60 min)</small>
+                  <a href=<?php echo PRICING . "#service7" ?> class="btn hvr-sweep-to-right pull-right">Ceník >></a>
+                </li>
+                <li class="list-group-item price-list">Víkendový vzdělávací kurz <small>(4 hod)</small>
+                  <a href=<?php echo PRICING . "#service8" ?> class="btn hvr-sweep-to-right pull-right">Ceník >></a>
+                </li>
+              </ul>
+            </div>
+            <!-- /.pricing-table -->
           </div>
         </div>
       </div>
-      <div>
-        <div class="row">
-          <div class="col-md-12 location-map">
-            <div class="map" id="googleMap"> </div>
-          </div>
+      <div class="row">
+        <div class="col-md-5 section-title">
+          <h1>Kde nás najdete</h1>
+          <h5 class="small-title left">Naše adresa</h5>
+        </div>
+        <div class="col-md-7">
+          <p class="lead">Adresa provozovny:
+            <?php echo ADDRESS ?>.</p>
         </div>
       </div>
     </div>
+    <div>
+      <div class="row">
+        <div class="col-md-12 location-map">
+          <div class="map" id="googleMap"> </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
-    <!-- footeru -->
-    <?php include "templates/footer.php" ?>
+  <!-- footeru -->
+  <?php include "templates/footer.php" ?>
 
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="js/jquery/1.11.3/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
-    <!-- script Header -->
-    <script type="text/javascript" src="js/script.js"></script>
-    <!-- sticky Header -->
-    <script type="text/javascript" src="js/jquery.sticky.js"></script>
-    <script type="text/javascript" src="js/sticky-header.js"></script>
-    <!-- slider Script -->
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/slider.js"></script>
-    <script src="js/service-thumbnail.js"></script>
-    <script src="js/testimonial-single.js"></script>
-    <script async defer src="https://maps.googleapis.com/maps/api/js?callback=initMap&key=AIzaSyAem5msWQ7lwn0NHLu7ImZJ84CcBIbHxp0"></script>
-    <script type="text/javascript" src="js/location.js"></script>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="js/jquery/1.11.3/jquery.min.js"></script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="js/bootstrap.min.js"></script>
+  <!-- script Header -->
+  <script type="text/javascript" src="js/script.js"></script>
+  <!-- sticky Header -->
+  <script type="text/javascript" src="js/jquery.sticky.js"></script>
+  <script type="text/javascript" src="js/sticky-header.js"></script>
+  <!-- slider Script -->
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/slider.js"></script>
+  <script src="js/service-thumbnail.js"></script>
+  <script src="js/testimonial-single.js"></script>
+  <script async defer src="https://maps.googleapis.com/maps/api/js?callback=initMap&key=AIzaSyAem5msWQ7lwn0NHLu7ImZJ84CcBIbHxp0"></script>
+  <script type="text/javascript" src="js/location.js"></script>
 </body>
 
 </html>

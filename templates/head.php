@@ -18,6 +18,7 @@
 <link href="css/animate.css" rel="stylesheet">
 <!-- icon css -->
 <link rel="stylesheet" type="text/css" href="css/flaticon.css">
+<link rel="stylesheet" type="text/css" href="css/magnific-popup.css">
 <!-- Template Font -->
 <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css">
 <link href='https://fonts.googleapis.com/css?family=Roboto:400,400italic,500' rel='stylesheet' type='text/css'>
