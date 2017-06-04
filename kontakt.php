@@ -117,11 +117,11 @@
                 <h3 class="small-title">Rpilates</h3>
                 <p>Mgr. Jarmila Štěpánová</p>
                 <h3 class="small-title">Adresa:</h3>
-                <p>Lhotka 629, Bohuňovice, 783 14</p>
+                <p><?php echo ADDRESS ?></p>
                 <h3 class="small-title">E-mail:</h3>
-                <p><a href="mailto:rpilates@seznam.cz">rpilates@seznam.cz</a></p>
+                <p><a href="mailto:<?php echo EMAIL ?>"><?php echo EMAIL ?></a></p>
                 <h3 class="small-title">phone: </h3>
-                <p>+420 774 988 156</p>
+                <p><?php echo PHONE ?></p>
                 <span id="view-map" class="btn btn-default btn-sm" onclick="smothScroll('#map')">Zobrazit na mapě</span>
               </div>
             </div>

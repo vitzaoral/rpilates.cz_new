@@ -38,8 +38,9 @@
 <body>
 
   <!-- menu -->
-  <?php $page = 'index'; include "templates/menu.php" ?>
-  
+  <?php $page = 'index';
+include "templates/menu.php" ?>
+
   <div id="slider" class="owl-carousel owl-theme">
     <!-- slider -->
     <div class="item"><img src="images/slider.jpg" alt="">
@@ -47,7 +48,7 @@
         <div class="col-md-6 slider-caption">
           <h1 class="slider-title">Sportovní fyzioterapie </h1>
           <p class="slider-description">Jsme rehabilitační ambulance zaměřená především na sportovní fyzioterapii.</p>
-          <a href="#" class="btn btn-default hvr-sweep-to-right">Více o nás</a> </div>
+          <a href=<?php echo ABOUT ?> class="btn btn-default hvr-sweep-to-right">Více o nás</a> </div>
       </div>
     </div>
     <div class="item"> <img src="images/slider-2.jpg" alt="">
@@ -55,7 +56,7 @@
         <div class="col-md-6 slider-caption">
           <h1 class="slider-title">Poradenství / kurzy pro veřejnost </h1>
           <p class="slider-description">Připravuje poradenství a vzdělávací víkendové kurzy pro veřejnost.</p>
-          <a href="#" class="btn btn-default hvr-sweep-to-right">Podívejte se na naše služby</a> </div>
+          <a href=<?php echo SERVICE ?> class="btn btn-default hvr-sweep-to-right">Podívejte se na naše služby</a> </div>
       </div>
     </div>
     <div class="item"><img src="images/slider-3.jpg" alt="">
@@ -63,7 +64,7 @@
         <div class="col-md-6 slider-caption">
           <h1 class="slider-title">Pilates / jóga / powerjoga</h1>
           <p class="slider-description">Poskytuje kompletní nabídku kurzů Pilates metody, jógy a powerjógy.</p>
-          <a href="#" class="btn btn-default hvr-sweep-to-right">Podívejte se, jak to u nás vypadá</a> </div>
+          <a href=<?php echo GALLERY ?> class="btn btn-default hvr-sweep-to-right">Podívejte se, jak to u nás vypadá</a>          </div>
       </div>
     </div>
   </div>
@@ -75,26 +76,16 @@
         <div class="col-md-12 profile-desciption">
           <h5 class="small-title left">Vítejte na stránkách R pilates studia</h5>
           <p class="lead">Jsme rehabilitační ambulance zaměřená především na sportovní fyzioterapii</p>
-          <p>Poskytujeme také poradenství a vzdělávácí víkendové kurzy pro veřejnost.</p>
-          <h5 class="small-title left">Specialist Areas</h5>
-          <div class="col-md-6">
-            <ul class="listnone circle-right ">
-              <li> Sports injuries </li>
-              <li> Musculoskeletal injuries </li>
-              <li> Complex/chronic pain </li>
-            </ul>
-          </div>
-          <div class="col-md-6">
-            <ul class="listnone circle-right ">
-              <li>Trigger points</li>
-              <li> Acupuncture </li>
-              <li> Orthopaedics </li>
-            </ul>
-          </div>
+          <p>TODO Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam feugiat, turpis at pulvinar vulputate, erat
+            libero tristique tellus, nec bibendum odio risus sit amet ante. Nunc dapibus tortor vel mi dapibus sollicitudin.
+            Integer tempor. In sem justo, commodo ut, suscipit at, pharetra vitae, orci. Maecenas lorem. Aenean fermentum
+            risus id tortor. Nullam at arcu a est sollicitudin euismod.</p>
+          <p>TODO Integer vulputate sem a nibh rutrum consequat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+            accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto
+            beatae vitae dicta sunt explicabo.</p>
         </div>
       </div>
     </div>
-
     <div class="section-space section-color">
       <div class="container">
         <div class="row">
@@ -112,7 +103,7 @@
             <div class="col-md-12 service-thumbnail item">
               <!--service-thumnnail-->
               <div class="service-img zoom-pic">
-                <a href="#"><img src="images/service-1.jpg" alt="" class="img-responsive"></a>
+                <a href=<?php echo SERVICE1 ?>><img src="images/service-1.jpg" alt="" class="img-responsive"></a>
               </div>
               <div class="service-content">
                 <h2>Rehabilitace</h2>
@@ -126,7 +117,7 @@
             <div class="col-md-12 service-thumbnail item">
               <!-- service-thumnnail -->
               <div class="service-img zoom-pic">
-                <a href="#"><img src="images/service-2.jpg" alt="" class="img-responsive"></a>
+                <a href=<?php echo SERVICE2 ?>><img src="images/service-2.jpg" alt="" class="img-responsive"></a>
               </div>
               <div class="service-content">
                 <h2>Sportovní fyzioterapie</h2>
@@ -139,7 +130,7 @@
             <div class="col-md-12 service-thumbnail item">
               <!-- /.service-thumnnail -->
               <div class="service-img zoom-pic">
-                <a href="#"><img src="images/service-4.jpg" alt="" class="img-responsive"></a>
+                <a href=<?php echo SERVICE3 ?>><img src="images/service-4.jpg" alt="" class="img-responsive"></a>
               </div>
               <div class="service-content">
                 <h2>Masáže</h2>
@@ -152,7 +143,7 @@
             <div class="col-md-12 service-thumbnail item">
               <!-- service-thumnnail -->
               <div class="service-img zoom-pic">
-                <a href="#"><img src="images/service-3.jpg" alt="" class="img-responsive"></a>
+                <a href=<?php echo SERVICE4 ?>><img src="images/service-3.jpg" alt="" class="img-responsive"></a>
               </div>
               <div class="service-content">
                 <h2>Skupinové zdravotní cvičení</h2>
@@ -164,7 +155,7 @@
             <div class="col-md-12 service-thumbnail item">
               <!-- /.service-thumnnail -->
               <div class="service-img zoom-pic">
-                <a href="#"><img src="images/service-5.jpg" alt="" class="img-responsive"></a>
+                <a href=<?php echo SERVICE5 ?>><img src="images/service-5.jpg" alt="" class="img-responsive"></a>
               </div>
               <div class="service-content">
                 <h2>Pilates – jóga – powerjóga</h2>
@@ -177,7 +168,7 @@
             <div class="col-md-12 service-thumbnail item">
               <!-- /.service-thumnnail -->
               <div class="service-img zoom-pic">
-                <a href="#"><img src="images/service-6.jpg" alt="" class="img-responsive"></a>
+                <a href=<?php echo SERVICE6 ?>><img src="images/service-6.jpg" alt="" class="img-responsive"></a>
               </div>
               <div class="service-content">
                 <h2>Poradenství – víkendové kurzy</h2>
@@ -204,8 +195,9 @@
             <p>Propojení jmenovaných oborů mě předurčilo k zaměření se na oblast sportovní fyzioterapie a léčebné tělesné výchovy.</p>
             <p>K rozvoji mé fyzioterapeutické praxe přispěly zahraniční stáže ve sportovně rehabilitačním ústavu v Norsku a
               Velké Británii a následně praxe v České republice zahrnující zařízení ambulantního, nemocničního i lázeňského
-              typu.</p>
-            <a href="#" class="btn btn-default hvr-sweep-to-right">Více o mě</a> </div>
+              typu.
+            </p>
+            <a href=<?php echo ABOUT ?> class="btn btn-default hvr-sweep-to-right">Více o mě</a> </div>
         </div>
       </div>
     </div>
@@ -222,7 +214,7 @@
                 <p>Na jednotlivé programy se lze rezervovat online nebo telefonicky. Případné zrušení rezervovaného termínu
                   je třeba nahlásit minimálně 24 hodin předem na tel. čísle: 774 988 156.
                 </p>
-                <a href="#" class="btn btn-default hvr-sweep-to-right"> Online rezervace</a>
+                <a href="#TODO" class="btn btn-default hvr-sweep-to-right"> Online rezervace</a>
               </div>
               <!-- pricing-desc -->
               <div class="col-md-offset-1 col-md-7 pricing-table">
@@ -230,22 +222,22 @@
                 <ul class="list-group">
                   <li class="list-group-item active">Nabízené služby <span class="pull-right price">Ceník</span></li>
                   <li class="list-group-item price-list">Rehabilitace <small>(vyšetření, individuální terapie)</small>
-                    <a href="#" class="btn hvr-sweep-to-right pull-right">Ceník >></a>
+                    <a href=<?php echo PRICING . "#service1" ?> class="btn hvr-sweep-to-right pull-right">Ceník >></a>
                   </li>
                   <li class="list-group-item price-list">Masáže <small>(30 - 60 min + další služby)</small>
-                    <a href="#" class="btn hvr-sweep-to-right pull-right">Ceník >></a>
+                    <a href=<?php echo PRICING . "#service2" ?> class="btn hvr-sweep-to-right pull-right">Ceník >></a>
                   </li>
                   <li class="list-group-item price-list">Zdravotní cvičení skupinové<small>(privátní / veřejné, 60 min)</small>
-                    <a href="#" class="btn hvr-sweep-to-right pull-right">Ceník >></a>
+                    <a href=<?php echo PRICING . "#service3" ?> class="btn hvr-sweep-to-right pull-right">Ceník >></a>
                   </li>
                   <li class="list-group-item price-list">Joga, pilates, powerjoga skupinové<small>(privátní / veřejné, 60 min)</small>
-                    <a href="#" class="btn hvr-sweep-to-right pull-right">Ceník >></a>
+                    <a href=<?php echo PRICING . "#service5" ?> class="btn hvr-sweep-to-right pull-right">Ceník >></a>
                   </li>
                   <li class="list-group-item price-list">Zdravotní cvičení na systému REDCORD<small>(privátní, 60 min)</small>
-                    <a href="#" class="btn hvr-sweep-to-right pull-right">Ceník >></a>
+                    <a href=<?php echo PRICING . "#service7" ?> class="btn hvr-sweep-to-right pull-right">Ceník >></a>
                   </li>
                   <li class="list-group-item price-list">Víkendový vzdělávací kurz <small>(4 hod)</small>
-                    <a href="#" class="btn hvr-sweep-to-right pull-right">Ceník >></a>
+                    <a href=<?php echo PRICING . "#service8" ?> class="btn hvr-sweep-to-right pull-right">Ceník >></a>
                   </li>
                 </ul>
               </div>
@@ -259,7 +251,8 @@
             <h5 class="small-title left">Naše adresa</h5>
           </div>
           <div class="col-md-7">
-            <p class="lead">Adresa provozovny: <?php echo ADDRESS ?>.</p>
+            <p class="lead">Adresa provozovny:
+              <?php echo ADDRESS ?>.</p>
           </div>
         </div>
       </div>
@@ -272,8 +265,8 @@
       </div>
     </div>
 
-     <!-- footeru -->
-     <?php include "templates/footer.php" ?>
+    <!-- footeru -->
+    <?php include "templates/footer.php" ?>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="js/jquery/1.11.3/jquery.min.js"></script>

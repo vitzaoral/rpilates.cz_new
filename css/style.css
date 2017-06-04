@@ -2369,6 +2369,14 @@ blockquote.left-quote {
 	margin-bottom: 60px;
 }
 
+.pricing-block:before { 
+  display: block; 
+  content: " "; 
+  margin-top: -500px; 
+  height: 500px; 
+  visibility: hidden; 
+}
+
 .pricing-desc {}
 
 .pricing-table {}

@@ -87,33 +87,8 @@
           </div>
         </div>
         <div class="col-md-4 sidebar">
-          <!-- sidebar -->
-          <div class="row">
-            <div class="col-md-12">
-              <div class="widget service">
-                <!-- service -->
-                <h2 class="widget-title">Seznam služeb</h2>
-                <ul class="listnone chevron-circle-right">
-                  <li ><a href="#">Rehabilitace</a></li>
-                  <li><a href="#"> Sportovní fyzioterapie</a></li>
-                  <li><a href="#">Masáže</a></li>
-                  <li><a href="#">Skupinové zdravotní cvičení</a></li>
-                  <li><a href="#">Pilates – jóga – powerjóga</a></li>
-                  <li class="active"><a href="#">Poradenství – víkendové kurzy</a></li>
-                </ul>
-              </div>
-              <!-- /.service -->
-            </div>
-            <div class="col-md-12">
-              <div class="widget widget-price">
-                <!-- service -->
-                <h2 class="widget-title">Ceník a rezervace</h2>
-                <p>Více informací o ceně poradenství a kurzů zjistíte v ceníku</p>
-                <a href="#" class="btn btn-default hvr-sweep-to-right">Ceník a rezervace ></a>
-              </div>
-              <!-- /.service -->
-            </div>           
-          </div>
+          <!-- sidebar menu -->
+          <?php $page = 'service8'; $info = 'poradenství a víkendových kurzů'; include "templates/service-menu.php" ?>
         </div>
       </div>
     </div>

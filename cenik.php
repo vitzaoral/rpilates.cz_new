@@ -74,7 +74,7 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-md-12 pricing-block">
+        <div class="col-md-12 pricing-block " id="service1">
           <!-- pricing-block -->
           <div class="row">
             <div class="col-md-4 pricing-desc">
@@ -97,7 +97,7 @@
           </div>
         </div>
         <!-- /.pricing-block -->
-        <div class="col-md-12 pricing-block">
+        <div class="col-md-12 pricing-block " id="service2">
           <!-- pricing-block -->
           <div class="row">
             <div class="col-md-4 pricing-desc">
@@ -122,7 +122,7 @@
           </div>
         </div>
         <!-- /.pricing-block -->
-        <div class="col-md-12 pricing-block">
+        <div class="col-md-12 pricing-block " id="service3">
           <!-- pricing-block -->
           <div class="row">
             <div class="col-md-4 pricing-desc">
@@ -144,7 +144,7 @@
           </div>
         </div>
         <!-- /.pricing-block -->
-        <div class="col-md-12 pricing-block">
+        <div class="col-md-12 pricing-block" id="service4">
           <!-- pricing-block -->
           <div class="row">
             <div class="col-md-4 pricing-desc">
@@ -165,7 +165,7 @@
           </div>
         </div>
         <!-- /.pricing-block -->
-        <div class="col-md-12 pricing-block">
+        <div class="col-md-12 pricing-block" id="service5">
           <!-- pricing-block -->
           <div class="row">
             <div class="col-md-4 pricing-desc">
@@ -187,7 +187,7 @@
           </div>
         </div>
         <!-- /.pricing-block -->
-        <div class="col-md-12 pricing-block">
+        <div class="col-md-12 pricing-block" id="service6">
           <!-- pricing-block -->
           <div class="row">
             <div class="col-md-4 pricing-desc">
@@ -208,7 +208,7 @@
           </div>
         </div>
         <!-- /.pricing-block -->
-        <div class="col-md-12 pricing-block">
+        <div class="col-md-12 pricing-block" id="service7">
           <!-- pricing-block -->
           <div class="row">
             <div class="col-md-4 pricing-desc">
@@ -230,7 +230,7 @@
           </div>
         </div>
         <!-- /.pricing-block -->
-        <div class="col-md-12 pricing-block">
+        <div class="col-md-12 pricing-block" id="service8">
           <!-- pricing-block -->
           <div class="row">
             <div class="col-md-4 pricing-desc">

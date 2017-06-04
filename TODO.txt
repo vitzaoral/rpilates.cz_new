@@ -35,4 +35,6 @@ https://console.developers.google.com/apis/credentials/key/34?project=api-projec
 
 - projet jestli nekde neustalo TODO
 
+- pricing spatne skacou #odkazy z hlavni stranky
+
 

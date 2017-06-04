@@ -96,7 +96,7 @@
               <li>Instruktor nordic walking</li>
             </ul>
           </div>
-          <a href="#" class="btn btn-default hvr-sweep-to-right">Poskytované služby</a> </div>
+          <a href=<?php echo SERVICE ?> class="btn btn-default hvr-sweep-to-right">Poskytované služby</a> </div>
       </div>
     </div>
   </div>
