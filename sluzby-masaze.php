@@ -115,52 +115,8 @@
   </div>
   <!-- /.main-container -->
 
-  <div class="footer">
-    <!-- footer -->
-    <div class="container">
-      <div class="row footer-section">
-        <!-- footer section -->
-        <div class="col-md-3 footer-block"> <img src="images/footer-logo.png" alt="">
-          <p>Rehabilitační ambulance, která nabízí osobní a odborný přístup k Vašim problémům. Těšíme se na Vás. TODO.</p>
-        </div>
-        <div class="col-md-3 footer-block">
-          <h3>Naše služby</h3>
-          <ul class="listnone">
-            <li><a href="#">Rehabilitace</a></li>
-            <li><a href="#">Sportovní fyzioterapie</a></li>
-            <li><a href="#">Masáže</a></li>
-            <li><a href="#">Skupinové zdravotní cvičení</a></li>
-            <li><a href="#">Pilates - joga - powerjoga</a></li>
-            <li><a href="#">Poradenství - víkendové kurzy</a></li>
-          </ul>
-        </div>
-        <div class="col-md-3 footer-block">
-          <h3>Provozní doba</h3>
-          <div><strong>Po - Pá</strong> 8:00 - 16:00 </div>
-          <div><strong>So:</strong> dle domluvy </div>
-        </div>
-        <div class="col-md-3 footer-block">
-          <h3>Adresa</h3>
-          <p>Lhotka 629, Bohuňovice, 783 14</p>
-          <p>+420 774 988 156</p>
-          <p><a href="mailto:rpilates@seznam.cz">rpilates@seznam.cz</a></p>
-        </div>
-      </div>
-      <!-- /.footer section -->
-      <div class="row tiny-footer">
-        <!-- tiny-footer-->
-        <div class="col-md-6 copyright">Copyright @ 2017 Rpilates.cz</div>
-        <div class="col-md-6 soical-block">
-          <ul class="listnone">
-            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-          </ul>
-        </div>
-      </div>
-      <!-- /.tiny-footer-->
-    </div>
-  </div>
-  <!-- /.footer -->
+  <!-- footer -->
+  <?php include "templates/footer.php" ?>
 
   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
   <script src="js/jquery/1.11.3/jquery.min.js"></script>

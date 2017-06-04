@@ -1,3 +1,5 @@
+<?php include "PHP/constants.php" ?>
+
 <div class="navigation">
     <!-- navigation-start -->
 
@@ -10,29 +12,29 @@
         <div id="navigation">
           <ul>
             <li <?php echo ($page == 'index') ? "class='active'" : ""; ?> >
-                <a href="index.php">Úvod</a>
+                <a href=<?php echo INDEX ?>>Úvod</a>
             </li>
             <li <?php echo ($page == 'about') ? "class='active'" : ""; ?>>
-                <a href="o-me.php">O mě</a></li>
+                <a href=<?php echo ABOUT ?>>O mě</a></li>
             <li <?php echo ($page == 'gallery') ? "class='active'" : ""; ?>> 
-                <a href="galerie.php">Galerie </a>
+                <a href=<?php echo GALLERY ?>>Galerie </a>
             </li>
             <li <?php echo ($page == 'service') ? "class='active'" : ""; ?>> 
-                <a href="sluzby.php">Služby </a>
+                <a href=<?php echo SERVICE ?>>Služby </a>
               <ul>
-                <li><a href="sluzby-rehabilitace.php">Rehabilitace</a></li>
-                <li><a href="sluzby-sportovni-fyzio.php">Sportovní fyzioterapie</a></li>
-                <li><a href="sluzby-masaze.php">Masáže</a></li>
-                <li><a href="sluzby-skupinove-cviceni.php">Skupinové zdravotní cvičení</a></li>
-                <li><a href="sluzby-pilates-joga.php">Pilates - joga - powerjoga</a></li>
-                <li><a href="sluzby-kurzy.php">Poradenství - víkendové kurzy</a></li>
+                <li><a href=<?php echo SERVICE1 ?>>Rehabilitace</a></li>
+                <li><a href=<?php echo SERVICE2 ?>>Sportovní fyzioterapie</a></li>
+                <li><a href=<?php echo SERVICE3 ?>>Masáže</a></li>
+                <li><a href=<?php echo SERVICE4 ?>>Skupinové zdravotní cvičení</a></li>
+                <li><a href=<?php echo SERVICE5 ?>>Pilates - joga - powerjoga</a></li>
+                <li><a href=<?php echo SERVICE6 ?>>Poradenství - víkendové kurzy</a></li>
               </ul>
             </li>
             <li <?php echo ($page == 'pricing') ? "class='active'" : ""; ?>> 
-                <a href="cenik.php">Ceník &amp; Rezervace</a>
+                <a href=<?php echo PRICING ?>>Ceník &amp; Rezervace</a>
             </li>            
             <li <?php echo ($page == 'contact') ? "class='active'" : ""; ?>> 
-                <a href="kontakt.php">Kontakt</a>
+                <a href=<?php echo CONTACT ?>>Kontakt</a>
             </li>
           </ul>
         </div>
