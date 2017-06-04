@@ -23,14 +23,12 @@ https://console.developers.google.com/apis/credentials/key/34?project=api-projec
 
 - ceník na indexu - pravá strana je níž     , dělá to btn třída   
 
-- dodělat keywords, titles ..., <html lang="cs"> ...
-
-- google analytics    
-
 - pokud bz bzlo moc casu tak cenik do PHP - jednotlive ceny sluzeb :)
 
 - projet jestli nekde neustalo TODO
 
 - pricing spatne skacou #odkazy z hlavni stranky
+
+- reservanto - css je jecih, umi nejak po kliku vybrat sluzbu?
 
 

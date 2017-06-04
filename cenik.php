@@ -58,7 +58,8 @@
               <h2>Rehabilitace</h2>
               <p>Physiotherapy is a clinical health profession that aims to rehabilitate peopleand improve movement disorders.
               </p>
-              <a href="#" class="btn btn-default hvr-sweep-to-right">Rezervovat</a> </div>
+              <?php include "templates/reservanto.html" ?>
+            </div>
             <!-- pricing-desc -->
             <div class="col-md-offset-1 col-md-7 pricing-table">
               <!-- pricing-table -->
@@ -81,7 +82,8 @@
               <h2>Masáže</h2>
               <p>We are specialists in sports injuries. Our team have worked at the highest levels of international competition
                 across variety of sports.</p>
-              <a href="#" class="btn btn-default hvr-sweep-to-right"> Rezervovat</a> </div>
+              <?php include "templates/reservanto.html" ?>
+             </div>
             <!-- pricing-desc -->
             <div class="col-md-offset-1 col-md-7 pricing-table">
               <!-- pricing-table -->
@@ -128,7 +130,8 @@
               <h2>Zdravotní cvičení skupinové – volně přístupné</h2>
               <p>We are specialists in sports injuries. Our team have worked at the highest levels of international competition
                 across variety of sports.</p>
-              <a href="#" class="btn btn-default hvr-sweep-to-right"> Rezervovat</a> </div>
+              <?php include "templates/reservanto.html" ?>
+             </div>
             <!-- pricing-desc -->
             <div class="col-md-offset-1 col-md-7 pricing-table">
               <!-- pricing-table -->
@@ -171,7 +174,8 @@
               <h2>Joga, pilates, powerjoga skupinové - veřejné</h2>
               <p>Physiotherapy is a clinical health profession that aims to rehabilitate people following injury and improve
                 movement disorders.</p>
-              <a href="#" class="btn btn-default hvr-sweep-to-right"> Rezervovat</a> </div>
+              <?php include "templates/reservanto.html" ?>             
+            </div>
             <!-- pricing-desc -->
             <div class="col-md-offset-1 col-md-7 pricing-table">
               <!-- pricing-table -->

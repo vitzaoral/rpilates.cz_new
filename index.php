@@ -184,7 +184,7 @@
                 <p>Na jednotlivé programy se lze rezervovat online nebo telefonicky. Případné zrušení rezervovaného termínu
                   je třeba nahlásit minimálně 24 hodin předem na tel. čísle: 774 988 156.
                 </p>
-                <a href="#TODO" class="btn btn-default hvr-sweep-to-right"> Online rezervace</a>
+                <?php include "templates/reservanto.html" ?>
               </div>
               <!-- pricing-desc -->
               <div class="col-md-offset-1 col-md-7 pricing-table">
