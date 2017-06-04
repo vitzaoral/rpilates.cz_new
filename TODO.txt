@@ -18,20 +18,16 @@ https://console.developers.google.com/apis/credentials/key/34?project=api-projec
 
 - bacha na texty, někde plurár (o nás), někde singulár (o mě) apod.. pak projít a sjednotit
 
-- font Adamina má problém s ř, použít Roboto nebo se mrknout jestli má google jiné
-
 - titul Mgr. at BC.? Nejasná věta kde jsem vystudovala magisterský
             obor <strong>Fyzioterapie</strong> a bakalářský obor <strong>Aplikované pohybové aktivity</strong>, na který jsem navázala studiem doktorským.</p - na co navazala phd?
 
 - ceník na indexu - pravá strana je níž     , dělá to btn třída   
 
-- dodělat keywords, titles ..., <html lang="en"> ...
+- dodělat keywords, titles ..., <html lang="cs"> ...
 
 - google analytics    
 
-- PHP include menu a footer <? include "sloupecek.html"; ?>
-
-- pokud bz bzlo moc casu tak cenik do PHP :)
+- pokud bz bzlo moc casu tak cenik do PHP - jednotlive ceny sluzeb :)
 
 - projet jestli nekde neustalo TODO
 
