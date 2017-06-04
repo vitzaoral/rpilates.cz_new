@@ -700,6 +700,10 @@ span.meta-line {
 	padding: 0px 15px
 }
 
+/** aktivni menu **/
+.navigation .navbar-right .active{
+	border-bottom: 1px solid #568aed !important;	
+}
 
 /*** Header #2 ****/
 
