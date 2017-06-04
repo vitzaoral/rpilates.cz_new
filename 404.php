@@ -30,9 +30,7 @@
           <h1 class="error-title">404 Chyba</h1>
           <h5 class="small-title left">Stránka nenalezena</h5>
           <p class="lead">Omluváme se, tato stránka bohužel neexistuje.</p>
-          <a href="index.html" class="btn btn-default hvr-sweep-to-right">Zpět na úvod</a>
-
-
+          <a href=<?php echo INDEX ?> class="btn btn-default hvr-sweep-to-right">Zpět na úvod</a>
         </div>
       </div>
     </div>

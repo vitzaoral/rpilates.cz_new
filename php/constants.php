@@ -1,18 +1,18 @@
  <?php
-define("INDEX", "index.php");
-define("ABOUT", "o-me.php");
-define("GALLERY", "galerie.php");
+define("INDEX", "index");
+define("ABOUT", "o-me");
+define("GALLERY", "galerie");
 
-define("SERVICE", "sluzby.php");
-define("SERVICE1", "sluzby-rehabilitace.php");
-define("SERVICE2", "sluzby-sportovni-fyzio.php");
-define("SERVICE3", "sluzby-masaze.php");
-define("SERVICE4", "sluzby-skupinove-cviceni.php");
-define("SERVICE5", "sluzby-pilates-joga.php");
-define("SERVICE6", "sluzby-kurzy.php");
+define("SERVICE", "sluzby");
+define("SERVICE1", "sluzby-rehabilitace");
+define("SERVICE2", "sluzby-sportovni-fyzio");
+define("SERVICE3", "sluzby-masaze");
+define("SERVICE4", "sluzby-skupinove-cviceni");
+define("SERVICE5", "sluzby-pilates-joga");
+define("SERVICE6", "sluzby-kurzy");
 
-define("PRICING", "cenik.php");
-define("CONTACT", "kontakt.php");
+define("PRICING", "cenik");
+define("CONTACT", "kontakt");
 
 define("EMAIL", "rpilates@seznam.cz");
 define("PHONE", "+420 774 988 156");
