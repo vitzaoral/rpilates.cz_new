@@ -34,7 +34,7 @@
     <div class="container">
       <div class="row trainer-profile">
         <div class="col-md-4 trainer-block">
-          <div class="trainer-pic zoom-pic"> <a href="#"> <img src="images/trainer-2.jpg" alt="" class="img-responsive"></a></div>
+          <div class="trainer-pic zoom-pic"> <a href="#"> <img src="pictures/trainer.jpg" alt="" class="img-responsive"></a></div>
           <div class="trainer-caption">
             <h2>Mgr. Jarmila Štěpánová</h2>
             <span class="trainer-meta">fyzioterapeut</span> </div>

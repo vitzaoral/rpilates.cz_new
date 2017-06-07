@@ -64,7 +64,7 @@
             <div class="col-md-offset-1 col-md-7 pricing-table">
               <!-- pricing-table -->
               <ul class="list-group">
-                <li class="list-group-item active">Procedura <span class="pull-right price">Cena</span></li>
+                <li class="list-group-item active">Rehabilitace <span class="pull-right price">Cena</span></li>
                 <li class="list-group-item price-list">Vyšetření a individuální terapie<small>(60 minut)</small> <span class="pull-right price">500 Kč</span></li>
                 <li class="list-group-item">Individuální terapie<small>(30 minut)</small> <span class="pull-right price">250 Kč</span></li>
                 <li class="list-group-item">Individuální terapie<small>(45 minut)</small> <span class="pull-right price">350 Kč</span></li>
@@ -88,7 +88,7 @@
             <div class="col-md-offset-1 col-md-7 pricing-table">
               <!-- pricing-table -->
               <ul class="list-group">
-                <li class="list-group-item active">Procedura <span class="pull-right price">Cena</span></li>
+                <li class="list-group-item active">Masáže <span class="pull-right price">Cena</span></li>
                 <li class="list-group-item price-list">Masáž<small>(30 minut)</small> <span class="pull-right price">250 Kč</span></li>
                 <li class="list-group-item price-list">Masáž<small>(60 minut)</small> <span class="pull-right price">500 Kč</span></li>
                 <li class="list-group-item"> <span class="note">+ Kineziotaping (materiál) 1 cm – 1 Kč (vždy součástí terapie nebo masáže)</span></li>
@@ -112,7 +112,7 @@
             <div class="col-md-offset-1 col-md-7 pricing-table">
               <!-- pricing-table -->
               <ul class="list-group">
-                <li class="list-group-item active">Procedura <span class="pull-right price">Cena</span></li>
+                <li class="list-group-item active">Zdravotní cvičení <span class="pull-right price">Cena</span></li>
                 <li class="list-group-item price-list">Cvičení 2 osoby<small>(60 minut)</small> <span class="pull-right price">200 Kč / osoba</span></li>
                 <li class="list-group-item price-list">Cvičení 3 osoby<small>(60 minut)</small> <span class="pull-right price">150 Kč / osoba</span></li>
                 <li class="list-group-item price-list">Cvičení 4 osoby<small>(60 minut)</small> <span class="pull-right price">100 Kč / osoba</span></li>
@@ -136,7 +136,7 @@
             <div class="col-md-offset-1 col-md-7 pricing-table">
               <!-- pricing-table -->
               <ul class="list-group">
-                <li class="list-group-item active">Procedura <span class="pull-right price">Cena</span></li>
+                <li class="list-group-item active">Zdravotní cvičení <span class="pull-right price">Cena</span></li>
                 <li class="list-group-item price-list">Cvičení 5 - 7 osob<small>(60 minut)</small> <span class="pull-right price">80 Kč / osoba</span></li>
               </ul>
             </div>
@@ -156,7 +156,7 @@
             <div class="col-md-offset-1 col-md-7 pricing-table">
               <!-- pricing-table -->
               <ul class="list-group">
-                <li class="list-group-item active">Procedura <span class="pull-right price">Cena</span></li>
+                <li class="list-group-item active">Joga, pilates, powerjoga <span class="pull-right price">Cena</span></li>
                 <li class="list-group-item price-list">Lekce 2 osoby<small>(60 minut)</small> <span class="pull-right price">200 Kč / osoba</span></li>
                 <li class="list-group-item price-list">Lekce 3 osoby<small>(60 minut)</small> <span class="pull-right price">150 Kč / osoba</span></li>
                 <li class="list-group-item price-list">Lekce 4 osoby<small>(60 minut)</small> <span class="pull-right price">100 Kč / osoba</span></li>
@@ -180,7 +180,7 @@
             <div class="col-md-offset-1 col-md-7 pricing-table">
               <!-- pricing-table -->
               <ul class="list-group">
-                <li class="list-group-item active">Procedura <span class="pull-right price">Cena</span></li>
+                <li class="list-group-item active">Joga, pilates, powerjoga <span class="pull-right price">Cena</span></li>
                 <li class="list-group-item price-list">Lekce 5 - 7 osob<small>(60 minut)</small> <span class="pull-right price">80 Kč / osoba</span></li>
               </ul>
             </div>
@@ -200,7 +200,7 @@
             <div class="col-md-offset-1 col-md-7 pricing-table">
               <!-- pricing-table -->
               <ul class="list-group">
-                <li class="list-group-item active">Procedura <span class="pull-right price">Cena</span></li>
+                <li class="list-group-item active">Zdravotní cvičení REDCORD <span class="pull-right price">Cena</span></li>
                 <li class="list-group-item price-list">Cvičení 1 osoba<small>(60 minut)</small> <span class="pull-right price">350 Kč / osoba</span></li>
                 <li class="list-group-item price-list">Cvičení 2 osoby<small>(60 minut)</small> <span class="pull-right price">200 Kč / osoba</span></li>
                 <li class="list-group-item price-list">Cvičení 3 osoby<small>(60 minut)</small> <span class="pull-right price">150 Kč / osoba</span></li>
@@ -222,7 +222,7 @@
             <div class="col-md-offset-1 col-md-7 pricing-table">
               <!-- pricing-table -->
               <ul class="list-group">
-                <li class="list-group-item active">Procedura <span class="pull-right price">Cena</span></li>
+                <li class="list-group-item active">Kurz <span class="pull-right price">Cena</span></li>
                 <li class="list-group-item price-list">Vzdělávací kurz<small>(4 hodiny)</small> <span class="pull-right price">200 Kč / osoba</span></li>
               </ul>
             </div>

@@ -1388,6 +1388,10 @@ only screen and (min-resolution: 2dppx) and (max-width: 1024px) {
 	margin-bottom: 100px;
 }
 
+.company-profile {
+	margin-bottom: 70px;
+}
+
 .profile-desciption {}
 
 .parallax-cta {
@@ -1419,7 +1423,11 @@ only screen and (min-resolution: 2dppx) and (max-width: 1024px) {
 .parallax img {}
 
 .parallax-2 {
-	background-image: url("../images/parallax-cta.jpg");
+	background-image: url("../pictures/parallax-cta.jpg");
+}
+
+.about-hp p{
+	font-size: 19px;
 }
 
 

@@ -4,7 +4,7 @@
         <div class="row footer-section">
           <!-- footer section -->
           <div class="col-md-3 footer-block"> <img src="images/footer-logo.png" alt="">
-            <p>Rehabilitační ambulance, která nabízí osobní a odborný přístup k Vašim problémům. Těšíme se na Vás. TODO.</p>
+            <p>R pilates studio nabízí služby široké veřejnosti zejména v oblasti "čtyř R" - Rehabilitace, Regenerace, Relaxace a Rekondice. Těšíme se na vás.</p>
           </div>
           <div class="col-md-3 footer-block">
             <h3>Naše služby</h3>
@@ -19,8 +19,7 @@
           </div>
           <div class="col-md-3 footer-block">
             <h3>Provozní doba</h3>
-            <div><strong>Po - Pá</strong> 8:00 - 16:00 </div>
-            <div><strong>So:</strong> dle domluvy </div>
+            <div><strong>Po - So</strong> dle objednávek </div>            
           </div>
           <div class="col-md-3 footer-block">
             <h3>Adresa</h3>

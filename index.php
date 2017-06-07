@@ -3,13 +3,21 @@
 
 <head>
   <!-- head -->
-  <?php $title = 'Úvod'; include "templates/head.php" ?>
+  <?php $title = 'Úvod';
+
+
+
+include "templates/head.php" ?>
 </head>
 
 <body>
 
   <!-- menu -->
-  <?php $page = 'index'; include "templates/menu.php" ?>
+  <?php $page = 'index';
+
+
+
+include "templates/menu.php" ?>
 
   <div id="slider" class="owl-carousel owl-theme">
     <!-- slider -->
@@ -41,23 +49,19 @@
   <!-- /.slider -->
 
   <div class="section-space">
-    <div class="container">
-      <div class="row trainer-profile">
-        <div class="col-md-12 profile-desciption">
-          <h5 class="small-title left">Vítejte na stránkách R pilates studia</h5>
-          <p class="lead">Jsme rehabilitační ambulance zaměřená především na sportovní fyzioterapii</p>
-          <p>TODO Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam feugiat, turpis at pulvinar vulputate, erat
-            libero tristique tellus, nec bibendum odio risus sit amet ante. Nunc dapibus tortor vel mi dapibus sollicitudin.
-            Integer tempor. In sem justo, commodo ut, suscipit at, pharetra vitae, orci. Maecenas lorem. Aenean fermentum
-            risus id tortor. Nullam at arcu a est sollicitudin euismod.</p>
-          <p>TODO Integer vulputate sem a nibh rutrum consequat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto
-            beatae vitae dicta sunt explicabo.</p>
-        </div>
-      </div>
-    </div>
     <div class="section-space section-color">
       <div class="container">
+        <div class="row company-profile">
+          <div class="col-md-12 profile-desciption">
+            <h5 class="small-title left">Vítejte na stránkách R pilates studia</h5>
+            <p class="lead">Jsme rehabilitační ambulance zaměřená především na sportovní fyzioterapii a léčebnou tělesnou výchovu</p>
+            <p>Lidské tělo je pozoruhodným systémem, který zaslouží naši pozornost a péči. V dnešní uspěchané době plné stresu
+              a vynucených poloh je třeba si najít čas i na navození fyzické a psychické pohody. Věnujte proto pozornost
+              "hlasům svého těla" dříve, než dojde k propuknutí závažnějších obtíží a nezatracujte možnost preventivního
+              působení "čtyř R".
+            </p>
+          </div>
+        </div>
         <div class="row">
           <div class="col-md-5 section-title">
             <h1>Naše služby</h1>
@@ -73,7 +77,7 @@
             <div class="col-md-12 service-thumbnail item">
               <!--service-thumnnail-->
               <div class="service-img zoom-pic">
-                <a href=<?php echo SERVICE1 ?>><img src="images/service-1.jpg" alt="" class="img-responsive"></a>
+                <a href=<?php echo SERVICE1 ?>><img src="pictures/service-1.jpg" alt="" class="img-responsive"></a>
               </div>
               <div class="service-content">
                 <h2>Rehabilitace</h2>
@@ -87,7 +91,7 @@
             <div class="col-md-12 service-thumbnail item">
               <!-- service-thumnnail -->
               <div class="service-img zoom-pic">
-                <a href=<?php echo SERVICE2 ?>><img src="images/service-2.jpg" alt="" class="img-responsive"></a>
+                <a href=<?php echo SERVICE2 ?>><img src="pictures/service-2.jpg" alt="" class="img-responsive"></a>
               </div>
               <div class="service-content">
                 <h2>Sportovní fyzioterapie</h2>
@@ -100,7 +104,7 @@
             <div class="col-md-12 service-thumbnail item">
               <!-- /.service-thumnnail -->
               <div class="service-img zoom-pic">
-                <a href=<?php echo SERVICE3 ?>><img src="images/service-4.jpg" alt="" class="img-responsive"></a>
+                <a href=<?php echo SERVICE3 ?>><img src="pictures/service-4.jpg" alt="" class="img-responsive"></a>
               </div>
               <div class="service-content">
                 <h2>Masáže</h2>
@@ -113,7 +117,7 @@
             <div class="col-md-12 service-thumbnail item">
               <!-- service-thumnnail -->
               <div class="service-img zoom-pic">
-                <a href=<?php echo SERVICE4 ?>><img src="images/service-3.jpg" alt="" class="img-responsive"></a>
+                <a href=<?php echo SERVICE4 ?>><img src="pictures/service-3.jpg" alt="" class="img-responsive"></a>
               </div>
               <div class="service-content">
                 <h2>Skupinové zdravotní cvičení</h2>
@@ -125,7 +129,7 @@
             <div class="col-md-12 service-thumbnail item">
               <!-- /.service-thumnnail -->
               <div class="service-img zoom-pic">
-                <a href=<?php echo SERVICE5 ?>><img src="images/service-5.jpg" alt="" class="img-responsive"></a>
+                <a href=<?php echo SERVICE5 ?>><img src="pictures/service-5.jpg" alt="" class="img-responsive"></a>
               </div>
               <div class="service-content">
                 <h2>Pilates – jóga – powerjóga</h2>
@@ -138,7 +142,7 @@
             <div class="col-md-12 service-thumbnail item">
               <!-- /.service-thumnnail -->
               <div class="service-img zoom-pic">
-                <a href=<?php echo SERVICE6 ?>><img src="images/service-6.jpg" alt="" class="img-responsive"></a>
+                <a href=<?php echo SERVICE6 ?>><img src="pictures/service-6.jpg" alt="" class="img-responsive"></a>
               </div>
               <div class="service-content">
                 <h2>Poradenství – víkendové kurzy</h2>
@@ -157,7 +161,7 @@
     <!-- parallax cta -->
     <div class="container">
       <div class="row">
-        <div class="col-md-offset-2 col-md-8">
+        <div class="col-md-offset-2 col-md-8 about-hp">
           <h1>Mgr. Jarmila Štěpánová</h1>
           <p>Jmenuji se Jarmila Štěpánová a vítám Vás na svých stránkách R pilates studia.</p>
           <p>Mojí alma mater se stala Fakulta tělesné kultury Univerzity Palackého v Olomouci, kde jsem vystudovala magisterský

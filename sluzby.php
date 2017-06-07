@@ -111,8 +111,8 @@
             <!-- /.service-pic-->
             <div class="col-md-offset-1 col-md-6 line-left service-desc">
               <h2><a href=<?php echo SERVICE4 ?> class="service-title">Skupinové zdravotní cvičení</a></h2>
-              <p>Nabízím sestavy rehabilitačního cvičení - na velkých míčích, pro bolavá záda, cvičení těhotných žen a žen po
-                porodu, cvičení pánevního dna a další.</p>
+              <p>Nabízím sestavy rehabilitačního cvičení: na velkých míčích, pro bolavá záda, cvičení těhotných žen a žen po
+                porodu, cvičení pánevního dna, cvičení na závěsných lanech Redcord a další.</p>
               <a href=<?php echo SERVICE4 ?> class="btn btn-default hvr-sweep-to-right">Zjistit více ></a> </div>
           </div>
         </div>
