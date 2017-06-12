@@ -59,7 +59,7 @@
               <h2>Rehabilitace</h2>
               <p>Vyberte si sami délku trvání vašeho klinického vyšetření a terapie prostřednictvím systému on-line rezervace. V akutních případech volejte na telefonní číslo <strong><?php echo PHONE ?></strong> a pokusím se vás ošetřit ještě tentýž den.
               </p>
-              <?php include "templates/reservanto.html" ?>
+              <?php $serviceId = "22347"; include "templates/reservanto.html" ?>
             </div>
             <!-- pricing-desc -->
             <div class="col-md-offset-1 col-md-7 pricing-table">
@@ -82,7 +82,7 @@
               <!-- pricing-desc -->
               <h2>Masáže</h2>
               <p>Vyberte si sami druh masáže. Pokud budete požadovat celotělovou masáž, zarezervujte si celou hodinu.   Pokud se bude jednat o částečnou masáž, stačí si rezervovat půl hodiny.</p>
-              <?php include "templates/reservanto.html" ?>
+              <?php $serviceId = "22351"; include "templates/reservanto.html" ?>
              </div>
             <!-- pricing-desc -->
             <div class="col-md-offset-1 col-md-7 pricing-table">
@@ -129,7 +129,7 @@
               <!-- pricing-desc -->
               <h2>Zdravotní cvičení skupinové – volně přístupné</h2>
               <p>Ve volně přístupných lekcí zdravotního cvičení se složení skupiny průběžně mění. Proto je stanovený jednotný program lekce. Je nutné si rezervovat cvičení každý týden. S příchodem nového měsíce může nastat změna v harmonogramu volně přístupných lekcí.</p>
-              <?php include "templates/reservanto.html" ?>
+              <?php $serviceId = "22352"; include "templates/reservanto.html" ?>
              </div>
             <!-- pricing-desc -->
             <div class="col-md-offset-1 col-md-7 pricing-table">
@@ -172,7 +172,7 @@
               <!-- pricing-desc -->
               <h2>Jóga, pilates, powerjóga skupinové - veřejné</h2>
               <p>Výukový program každé lekce je pevně daný. Veřejný kurz probíhá jednou týdně v předem stanoveném čase bez možnosti náhrady. Je nutné se do každé lekce zarezervovat přes on-line rezervační systém.</p>
-              <?php include "templates/reservanto.html" ?>             
+              <?php $serviceId = "22353"; include "templates/reservanto.html" ?>             
             </div>
             <!-- pricing-desc -->
             <div class="col-md-offset-1 col-md-7 pricing-table">
