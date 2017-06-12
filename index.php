@@ -3,46 +3,41 @@
 
 <head>
   <!-- head -->
-  <?php $title = 'Úvod';
-
-
-
-include "templates/head.php" ?>
+  <?php $title = 'Úvod'; $loadReservanto = true; include "templates/head.php" ?>
 </head>
 
 <body>
 
   <!-- menu -->
-  <?php $page = 'index';
-
-
-
-include "templates/menu.php" ?>
+  <?php $page = 'index'; include "templates/menu.php" ?>
 
   <div id="slider" class="owl-carousel owl-theme">
     <!-- slider -->
-    <div class="item"><img src="images/slider.jpg" alt="">
+    <div class="item"><img src="pictures/slider-1.jpg" alt="">
       <div class="container">
         <div class="col-md-6 slider-caption">
           <h1 class="slider-title">Sportovní fyzioterapie </h1>
           <p class="slider-description">Jsme rehabilitační ambulance zaměřená především na sportovní fyzioterapii.</p>
-          <a href=<?php echo ABOUT ?> class="btn btn-default hvr-sweep-to-right">Více o nás</a> </div>
+          <a href=<?php echo ABOUT ?> class="btn btn-default hvr-sweep-to-right">Více o nás</a>
+        </div>
       </div>
     </div>
-    <div class="item"> <img src="images/slider-2.jpg" alt="">
+    <div class="item"><img src="pictures/slider-2.jpg" alt="">
+      <div class="container">
+        <div class="col-md-6 slider-caption">
+          <h1 class="slider-title">Pilates / jóga / powerjóga</h1>
+          <p class="slider-description">Poskytuje kompletní nabídku kurzů Pilates metody, jógy a powerjógy.</p>
+          <a href=<?php echo GALLERY ?> class="btn btn-default hvr-sweep-to-right">Podívejte se, jak to u nás vypadá</a>
+        </div>
+      </div>
+    </div>
+    <div class="item"> <img src="pictures/slider-3.jpg" alt="">
       <div class="container">
         <div class="col-md-6 slider-caption">
           <h1 class="slider-title">Poradenství / kurzy pro veřejnost </h1>
           <p class="slider-description">Připravuje poradenství a vzdělávací víkendové kurzy pro veřejnost.</p>
-          <a href=<?php echo SERVICE ?> class="btn btn-default hvr-sweep-to-right">Podívejte se na naše služby</a> </div>
-      </div>
-    </div>
-    <div class="item"><img src="images/slider-3.jpg" alt="">
-      <div class="container">
-        <div class="col-md-6 slider-caption">
-          <h1 class="slider-title">Pilates / jóga / powerjoga</h1>
-          <p class="slider-description">Poskytuje kompletní nabídku kurzů Pilates metody, jógy a powerjógy.</p>
-          <a href=<?php echo GALLERY ?> class="btn btn-default hvr-sweep-to-right">Podívejte se, jak to u nás vypadá</a>          </div>
+          <a href=<?php echo SERVICE ?> class="btn btn-default hvr-sweep-to-right">Podívejte se na naše služby</a>
+        </div>
       </div>
     </div>
   </div>
@@ -58,7 +53,7 @@ include "templates/menu.php" ?>
             <p>Lidské tělo je pozoruhodným systémem, který zaslouží naši pozornost a péči. V dnešní uspěchané době plné stresu
               a vynucených poloh je třeba si najít čas i na navození fyzické a psychické pohody. Věnujte proto pozornost
               "hlasům svého těla" dříve, než dojde k propuknutí závažnějších obtíží a nezatracujte možnost preventivního
-              působení "čtyř R".
+              působení "čtyř R" (rehabilitace, regenerace, rekondice a relaxace).
             </p>
           </div>
         </div>
@@ -104,7 +99,7 @@ include "templates/menu.php" ?>
             <div class="col-md-12 service-thumbnail item">
               <!-- /.service-thumnnail -->
               <div class="service-img zoom-pic">
-                <a href=<?php echo SERVICE3 ?>><img src="pictures/service-4.jpg" alt="" class="img-responsive"></a>
+                <a href=<?php echo SERVICE3 ?>><img src="pictures/service-3.jpg" alt="" class="img-responsive"></a>
               </div>
               <div class="service-content">
                 <h2>Masáže</h2>
@@ -117,7 +112,7 @@ include "templates/menu.php" ?>
             <div class="col-md-12 service-thumbnail item">
               <!-- service-thumnnail -->
               <div class="service-img zoom-pic">
-                <a href=<?php echo SERVICE4 ?>><img src="pictures/service-3.jpg" alt="" class="img-responsive"></a>
+                <a href=<?php echo SERVICE4 ?>><img src="pictures/service-4.jpg" alt="" class="img-responsive"></a>
               </div>
               <div class="service-content">
                 <h2>Skupinové zdravotní cvičení</h2>
@@ -186,7 +181,8 @@ include "templates/menu.php" ?>
               <!-- pricing-desc -->
               <h1>Ceník a rezervace</h1>
               <p>Na jednotlivé programy se lze rezervovat online nebo telefonicky. Případné zrušení rezervovaného termínu je
-                třeba nahlásit minimálně 24 hodin předem na tel. čísle: 774 988 156.
+                třeba nahlásit minimálně 24 hodin předem na tel. čísle:
+                <?php echo PHONE ?>.
               </p>
               <?php include "templates/reservanto.html" ?>
             </div>
@@ -204,7 +200,7 @@ include "templates/menu.php" ?>
                 <li class="list-group-item price-list">Zdravotní cvičení skupinové<small>(privátní / veřejné, 60 min)</small>
                   <a href=<?php echo PRICING . "#service3" ?> class="btn hvr-sweep-to-right pull-right">Ceník >></a>
                 </li>
-                <li class="list-group-item price-list">Joga, pilates, powerjoga skupinové<small>(privátní / veřejné, 60 min)</small>
+                <li class="list-group-item price-list">Jóga, pilates, powerjóga skupinové<small>(privátní / veřejné, 60 min)</small>
                   <a href=<?php echo PRICING . "#service5" ?> class="btn hvr-sweep-to-right pull-right">Ceník >></a>
                 </li>
                 <li class="list-group-item price-list">Zdravotní cvičení na systému REDCORD<small>(privátní, 60 min)</small>

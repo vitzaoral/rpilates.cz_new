@@ -15,7 +15,7 @@ define("PRICING", "cenik");
 define("CONTACT", "kontakt");
 
 define("EMAIL", "rpilates@seznam.cz");
-define("PHONE", "+420 774 988 156");
+define("PHONE", "774 988 156");
 define("ADDRESS", "Lhotka 629, Bohuňovice, 783 14");
 
 

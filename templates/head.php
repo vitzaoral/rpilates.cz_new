@@ -2,7 +2,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-<meta name="keywords" content="fyzio, fyzioterapie, sportovní zranění, masáž, cvičení, rehabilitace, Bohuňovice, rpilates, zdraví, pilates, joga"
+<meta name="keywords" content="fyzio, fyzioterapie, sportovní zranění, masáž, cvičení, rehabilitace, Bohuňovice, rpilates, zdraví, pilates, jóga"
 />
 <meta name="description" content="Rpilates - rehabilitační ambulance a sportovní fyzioterapie.">
 <title>Rpilates | <?php echo $title ?></title>
@@ -23,6 +23,11 @@
 <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css">
 <link href='https://fonts.googleapis.com/css?family=Roboto:400,400italic,500' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+<!--load reservanto-->
+<?php if($loadReservanto) : ?>
+	<script id="reservanto-widget-script" type="text/javascript" src="//booking.reservanto.cz/Script/reservanto-script.js?id=12207"></script>
+<?php endif; ?>	
 
 <!-- Google Analytics-->
 	<script>

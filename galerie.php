@@ -38,8 +38,7 @@
           <h5 class="small-title left">Podívejte se, jak to u mě vypadá</h5>
         </div>
         <div class="col-md-7">
-          <p class="lead">TODO Our focus on each individual with a special level of care and consideration provides a first class physiotherapy
-            service that is above and beyond your expectations. </p>
+          <p class="lead">R- pilates studio je vybaveno kvalitními moderními cvičebními a rehabilitačními pomůckami, které byly zakoupeny díky finanční podpoře nadačního fondu Veolia. Děkujeme.</p>
         </div>
       </div>
       <div class="row">

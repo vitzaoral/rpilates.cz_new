@@ -33,4 +33,6 @@ https://console.developers.google.com/apis/credentials/key/34?project=api-projec
 
 - na serveru zkontrolovat cestu k 404 - .htaccess
 
+- logo ve footer
+
 

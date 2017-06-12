@@ -27,7 +27,7 @@
                 <li><a href=<?php echo SERVICE2 ?>>Sportovní fyzioterapie</a></li>
                 <li><a href=<?php echo SERVICE3 ?>>Masáže</a></li>
                 <li><a href=<?php echo SERVICE4 ?>>Skupinové zdravotní cvičení</a></li>
-                <li><a href=<?php echo SERVICE5 ?>>Pilates - joga - powerjoga</a></li>
+                <li><a href=<?php echo SERVICE5 ?>>Pilates - jóga - powerjóga</a></li>
                 <li><a href=<?php echo SERVICE6 ?>>Poradenství - víkendové kurzy</a></li>
               </ul>
             </li>
