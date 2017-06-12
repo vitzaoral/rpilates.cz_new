@@ -2,11 +2,12 @@
 
   $.fn.menumaker = function (options) {
 
-    var cssmenu = $(this), settings = $.extend({
-      title: "Menu",
-      format: "dropdown",
-      sticky: false
-    }, options);
+    var cssmenu = $(this),
+      settings = $.extend({
+        title: "Menu",
+        format: "dropdown",
+        sticky: false
+      }, options);
 
     return this.each(function () {
       cssmenu.prepend('<div id="menu-button">' + settings.title + '</div>');
@@ -15,8 +16,7 @@
         var mainmenu = $(this).next('ul');
         if (mainmenu.hasClass('open')) {
           mainmenu.hide().removeClass('open');
-        }
-        else {
+        } else {
           mainmenu.show().addClass('open');
           if (settings.format === "dropdown") {
             mainmenu.find('ul').show();
@@ -32,8 +32,7 @@
           $(this).toggleClass('submenu-opened');
           if ($(this).siblings('ul').hasClass('open')) {
             $(this).siblings('ul').removeClass('open').hide();
-          }
-          else {
+          } else {
             $(this).siblings('ul').addClass('open').show();
           }
         });
@@ -73,7 +72,7 @@
 
 // fce pro pekny scroll na target po click
 var smothScroll = function (targetId, time = 500) {
-  
+
   var scroll = $(targetId).offset().top;
 
   // animate
@@ -86,3 +85,26 @@ var smothScroll = function (targetId, time = 500) {
     window.location.hash = targetId;
   });
 };
+
+// pěknější skrolování kvůli fix menu
+$(document).ready(function () {
+  // pri zmene hashe, navigace
+  $(window).on('hashchange', function () {
+    let hash = location.hash;
+
+    // jde o navigaci pomoc9 hash tagu, napr. "#!#main-1".match(/^#!#(.*)/) - /^#!#(.*)/
+    // ne, jen routing angularu
+    if (hash.match(/^#(.*)/)) {
+      let id = hash.match(/^(#.*)/)[1];
+      if ($(id)) {
+        setTimeout(() => {
+          // .affix jeste neni vyrenderovany, ale poskocim o typicky offset, neni spolehlive, pokud ma napr. rozpravovanou nemovitosti, jiny offset
+          let offsetHeight = -(130 + parseInt($(id).css('padding-top'))); // + padding vrsku            
+          $('html, body').animate({
+            scrollTop: $(id).offset().top + offsetHeight
+          }, 300);
+        }, 300); // timeout, protoze nejprve obsluhuje browser
+      }
+    }
+  }).trigger('hashchange'); // vyvolam hned po loadu
+});

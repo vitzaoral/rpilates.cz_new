@@ -12,8 +12,6 @@ https://console.developers.google.com/apis/credentials/key/34?project=api-projec
 
 - napsat Jarče ať si založí FB a Linked profil a navázat do footer
 
-- footer todo promo text
-
 - mapa způsobuje že se zobrazuje scrollbar dole pod footer
 
 - bacha na texty, někde plurár (o nás), někde singulár (o mě) apod.. pak projít a sjednotit
@@ -26,8 +24,6 @@ https://console.developers.google.com/apis/credentials/key/34?project=api-projec
 - pokud bz bzlo moc casu tak cenik do PHP - jednotlive ceny sluzeb :)
 
 - projet jestli nekde neustalo TODO
-
-- pricing spatne skacou #odkazy z hlavni stranky
 
 - reservanto - css je jecih, umi nejak po kliku vybrat sluzbu?
 

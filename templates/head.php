@@ -25,7 +25,7 @@
 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
 <!--load reservanto-->
-<?php if($loadReservanto) : ?>
+<?php if(isset($loadReservanto) && $loadReservanto) : ?>
 	<script id="reservanto-widget-script" type="text/javascript" src="//booking.reservanto.cz/Script/reservanto-script.js?id=12207"></script>
 <?php endif; ?>	
 
