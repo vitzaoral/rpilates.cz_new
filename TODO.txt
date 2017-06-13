@@ -12,8 +12,6 @@ https://console.developers.google.com/apis/credentials/key/34?project=api-projec
 
 - napsat Jarče ať si založí FB a Linked profil a navázat do footer
 
-- mapa způsobuje že se zobrazuje scrollbar dole pod footer
-
 - bacha na texty, někde plurár (o nás), někde singulár (o mě) apod.. pak projít a sjednotit
 
 - titul Mgr. at BC.? Nejasná věta kde jsem vystudovala magisterský
@@ -25,10 +23,8 @@ https://console.developers.google.com/apis/credentials/key/34?project=api-projec
 
 - projet jestli nekde neustalo TODO
 
-- reservanto - css je jecih, umi nejak po kliku vybrat sluzbu?
-
 - na serveru zkontrolovat cestu k 404 - .htaccess
 
 - logo ve footer
 
-
+- do reservanto doplnit IC/DIC, je plátce DPH? + oteviraci dobu na kdy se muzou registrovat, možnost propojit google kalendář

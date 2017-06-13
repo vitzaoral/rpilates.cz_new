@@ -184,7 +184,7 @@
                 třeba nahlásit minimálně 24 hodin předem na tel. čísle:
                 <strong><?php echo PHONE ?></strong>.
               </p>
-              <?php $serviceId = "22347"; include "templates/reservanto.html" ?>
+              <?php include "templates/reservanto.html" ?>
             </div>
             <!-- pricing-desc -->
             <div class="col-md-offset-1 col-md-7 pricing-table">

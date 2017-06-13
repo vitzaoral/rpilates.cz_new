@@ -5,7 +5,7 @@
 
     <div class="container">
       <!-- Brand and toggle get grouped for better mobile display -->
-      <div class="navbar-header">
+      <div class="navbar-header hidden-xs">
         <a class="navbar-brand" href=<?php echo INDEX ?>><img class="img-responsive" src="images/logo.svg" alt="Rpilates.cz"></a>
       </div>
       <div class="navbar-right">

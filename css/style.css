@@ -61,6 +61,8 @@ body {
 	-webkit-font-smoothing: antialiased;
 	line-height: 26px;
 	font-weight: 400;
+	/*kvuli mape schovan spodni scroll bar*/
+	overflow-x: hidden;
 }
 
 h1,
