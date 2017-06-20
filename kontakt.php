@@ -93,6 +93,8 @@
                 <p><a href="mailto:<?php echo EMAIL ?>"><?php echo EMAIL ?></a></p>
                 <h3 class="small-title">phone: </h3>
                 <p><?php echo PHONE ?></p>
+                <h3 class="small-title">IČO: </h3>
+                <p><?php echo ICO ?></p>
                 <span id="view-map" class="btn btn-default btn-sm" onclick="smothScroll('#map')">Zobrazit na mapě</span>
               </div>
             </div>

@@ -111,7 +111,7 @@
                 trénink pomáhá preventivně předcházet zraněním při pohybových aktivitách, bolestem zad, zlepšuje držení těla
                 a fyzickou kondici. Tato forma cvičení je vhodná v rámci sportovní přípravy.
               </p>
-              <div class="service-img zoom-pic"> <img src="images/service-8.jpg" alt="" class="img-responsive"></div>
+              <div class="service-img zoom-pic"> <img src="pictures/service-5.jpg" alt="" class="img-responsive"></div>
             </div>
           </div>
         </div>

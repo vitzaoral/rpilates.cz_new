@@ -56,7 +56,7 @@
             </div>
             <div class="col-md-5">
               <!-- service-pic-->
-              <div class="service-img zoom-pic"> <a href=<?php echo SERVICE1 ?>><img src="images/service-1.jpg" alt="" class="img-responsive"></a> </div>
+              <div class="service-img zoom-pic"> <a href=<?php echo SERVICE1 ?>><img src="pictures/service-1.jpg" alt="" class="img-responsive"></a> </div>
             </div>
             <!-- service-pic-->
           </div>
@@ -68,7 +68,7 @@
             <div class="col-md-5">
               <div class="service-img zoom-pic">
                 <!-- service-pic-->
-                <a href=<?php echo SERVICE2 ?>><img src="images/service-2.jpg" alt="" class="img-responsive"></a> </div>
+                <a href=<?php echo SERVICE2 ?>><img src="pictures/service-2.jpg" alt="" class="img-responsive"></a> </div>
             </div>
             <!-- /.service-pic-->
             <div class="col-md-offset-1 col-md-6 line-left service-desc">
@@ -93,7 +93,7 @@
               <a href=<?php echo SERVICE3 ?> class="btn btn-default hvr-sweep-to-right">Zjistit více ></a> </div>
             <div class="col-md-5">
               <!-- service-pic-->
-              <div class="service-img zoom-pic"> <a href=<?php echo SERVICE3 ?>><img src="images/service-3.jpg" alt="" class="img-responsive"></a> </div>
+              <div class="service-img zoom-pic"> <a href=<?php echo SERVICE3 ?>><img src="pictures/service-3.jpg" alt="" class="img-responsive"></a> </div>
             </div>
             <!-- service-pic-->
           </div>
@@ -106,7 +106,7 @@
               <div class="service-img zoom-pic">
                 <!-- service-pic-->
 
-                <a href=<?php echo SERVICE4 ?>><img src="images/service-4.jpg" alt="" class="img-responsive"></a> </div>
+                <a href=<?php echo SERVICE4 ?>><img src="pictures/service-4.jpg" alt="" class="img-responsive"></a> </div>
             </div>
             <!-- /.service-pic-->
             <div class="col-md-offset-1 col-md-6 line-left service-desc">
@@ -131,7 +131,7 @@
               <a href=<?php echo SERVICE5 ?> class="btn btn-default hvr-sweep-to-right">Zjistit více ></a> </div>
             <div class="col-md-5">
               <!-- service-pic-->
-              <div class="service-img zoom-pic"> <a href=<?php echo SERVICE5 ?>><img src="images/service-5.jpg" alt="" class="img-responsive"></a> </div>
+              <div class="service-img zoom-pic"> <a href=<?php echo SERVICE5 ?>><img src="pictures/service-5.jpg" alt="" class="img-responsive"></a> </div>
             </div>
             <!-- service-pic-->
           </div>
@@ -143,7 +143,7 @@
             <div class="col-md-5">
               <div class="service-img zoom-pic">
                 <!-- service-pic-->
-                <a href=<?php echo SERVICE6 ?>><img src="images/service-6.jpg" alt="" class="img-responsive"></a> </div>
+                <a href=<?php echo SERVICE6 ?>><img src="pictures/service-6.jpg" alt="" class="img-responsive"></a> </div>
             </div>
             <!-- /.service-pic-->
             <div class="col-md-offset-1 col-md-6 line-left service-desc">

@@ -3,7 +3,8 @@
       <div class="container">
         <div class="row footer-section">
           <!-- footer section -->
-          <div class="col-md-3 footer-block"> <img src="images/footer-logo.png" alt="">
+          <div class="col-md-3 footer-block"> 
+            <img class="img-responsive footer-logo hidden-xs" src="pictures/logo-inverse.svg" alt="Rpilates">
             <p>R pilates studio nabízí služby široké veřejnosti zejména v oblasti "čtyř R" - Rehabilitace, Regenerace, Relaxace a Rekondice. Těšíme se na vás.</p>
           </div>
           <div class="col-md-3 footer-block">

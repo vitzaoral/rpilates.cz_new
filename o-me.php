@@ -65,6 +65,7 @@
               <li>Kurz Vojtovy reflexní lokomoce „A“</li>
               <li>Kurz Medical taping concept</li>
               <li>Kurz Terapeutické cvičení na lanech – Redcord systém, program Neurac</li>
+              <li>Bazální posturální programy - Fyzioterapeutický koncept podle Jarmily Čápové - ramenní kloub</li>
               <li>Instruktor Pilates metody, zaměření na Medical Pilates</li>
               <li>Instruktor powerjógy</li>
               <li>Instruktor nordic walking</li>

@@ -67,7 +67,7 @@
                 <li>Kurz pro středně pokročilé</li>
                 <li>Kurz pro pokročilé</li>
               </ul>
-              <div class="service-img zoom-pic"> <img src="images/service-8.jpg" alt="" class="img-responsive"></div>
+              <div class="service-img zoom-pic"> <img src="pictures/service-5.jpg" alt="" class="img-responsive"></div>
             </div>
           </div>
         </div>

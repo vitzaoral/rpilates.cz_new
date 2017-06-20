@@ -16,7 +16,7 @@ var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
 var marker=new google.maps.Marker({
   position:myCenter,
 
-  icon:'images/marker-pin.png'
+  icon:'pictures/marker-pin.png'
   });
 
 marker.setMap(map);

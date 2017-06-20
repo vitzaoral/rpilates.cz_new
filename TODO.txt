@@ -14,9 +14,6 @@ https://console.developers.google.com/apis/credentials/key/34?project=api-projec
 
 - bacha na texty, někde plurár (o nás), někde singulár (o mě) apod.. pak projít a sjednotit
 
-- titul Mgr. at BC.? Nejasná věta kde jsem vystudovala magisterský
-            obor <strong>Fyzioterapie</strong> a bakalářský obor <strong>Aplikované pohybové aktivity</strong>, na který jsem navázala studiem doktorským.</p - na co navazala phd?
-
 - ceník na indexu - pravá strana je níž     , dělá to btn třída   
 
 - pokud bz bzlo moc casu tak cenik do PHP - jednotlive ceny sluzeb :)
@@ -25,6 +22,11 @@ https://console.developers.google.com/apis/credentials/key/34?project=api-projec
 
 - na serveru zkontrolovat cestu k 404 - .htaccess
 
-- logo ve footer
+- doteviraci dobu na kdy se muzou registrovat, možnost propojit google kalendář
+- reservanto dodat texty na jednotlive sluzby
+    Kalendář bych nastavila: rehabilitace a masáže po půl hodině a cvičení po hodině.
+    Já budu pracovat od 9- 21 sobota (9:00-13:00), ale né každý den. Budu si to nastavovat podle Kájových směn, vždycky na jeden měsíc. Půjde rezervační systém nastavit každý měsíc jinak nebo si to budu vyblokovávat, jako že si tam dám vlastní terapii :-).
+    Vím jistě, že veřejné cvičení bude od 1. října  cca od 18:00 do 20:00 od PO do ČT
 
-- do reservanto doplnit IC/DIC, je plátce DPH? + oteviraci dobu na kdy se muzou registrovat, možnost propojit google kalendář
+- galerie - dodat popisky do detaiLů fotek
+- galerie fotky 21 a 12 jsou stejné- jenu nahradit až Jarca dodá

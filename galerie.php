@@ -46,7 +46,7 @@
           <!--Project block start-->
           <div class="gallery-thumb zoom-pic">
             <!--Pro thumb start-->
-            <a href="images/gallery-thumb-1.jpg" class="image-link" title="Gallery Title"> <img src="images/gallery-thumb-1.jpg"  alt="" class="img-responsive"/> </a>
+            <a href="pictures/gallery/gallery-2.jpg" class="image-link" title="Galerie - TODO popisek"> <img src="pictures/gallery/thumbs/gallery-thumb-2.jpg"  alt="" class="img-responsive"/> </a>
           </div>
           <!--Pro thumb start-->
         </div>
@@ -54,7 +54,31 @@
           <!--Project block start-->
           <div class="gallery-thumb zoom-pic ">
             <!--Pro thumb start-->
-            <a href="images/gallery-thumb-2.jpg" class="image-link" title="Project Light Box Gallery Title"> <img src="images/gallery-thumb-2.jpg"  alt="" class="img-responsive"/> </a>
+            <a href="pictures/gallery/gallery-8.jpg" class="image-link" title="Galerie - TODO popisek"> <img src="pictures/gallery/thumbs/gallery-thumb-8.jpg"  alt="" class="img-responsive"/> </a>
+          </div>
+          <!--Pro thumb start-->
+        </div>
+        <div class="col-md-4 gallery-block">
+          <!--Project block start-->
+          <div class="gallery-thumb zoom-pic ">
+            <!--Pro thumb start-->
+            <a href="pictures/gallery/gallery-12.jpg" class="image-link" title="Galerie - TODO popisek"> <img src="pictures/gallery/thumbs/gallery-thumb-12.jpg"  alt="" class="img-responsive"/> </a>
+          </div>
+          <!--Pro thumb start-->
+        </div>
+        <div class="col-md-4 gallery-block">
+          <!--Project block start-->
+          <div class="gallery-thumb zoom-pic ">
+            <!--Pro thumb start-->
+            <a href="pictures/gallery/gallery-14.jpg" class="image-link" title="Galerie - TODO popisek"> <img src="pictures/gallery/thumbs/gallery-thumb-14.jpg"  alt="" class="img-responsive"/> </a>
+          </div>
+          <!--Pro thumb start-->
+        </div>
+        <div class="col-md-4 gallery-block">
+          <!--Project block start-->
+          <div class="gallery-thumb zoom-pic ">
+            <!--Pro thumb start-->
+            <a href="pictures/gallery/gallery-15.jpg" class="image-link" title="Galerie - TODO popisek"> <img src="pictures/gallery/thumbs/gallery-thumb-15.jpg"  alt="" class="img-responsive"/> </a>
           </div>
           <!--Pro thumb start-->
         </div>
@@ -62,7 +86,7 @@
           <!--Project block start-->
           <div class="gallery-thumb zoom-pic">
             <!--Pro thumb start-->
-            <a href="images/gallery-thumb-3.jpg" class="image-link" title="Project Light Box Gallery Title"> <img src="images/gallery-thumb-3.jpg"  alt="" class="img-responsive"/> </a>
+            <a href="pictures/gallery/gallery-16.jpg" class="image-link" title="Galerie - TODO popisek"> <img src="pictures/gallery/thumbs/gallery-thumb-16.jpg"  alt="" class="img-responsive"/> </a>
           </div>
           <!--Pro thumb start-->
         </div>
@@ -70,7 +94,15 @@
           <!--Project block start-->
           <div class="gallery-thumb zoom-pic">
             <!--Pro thumb start-->
-            <a href="images/gallery-thumb-4.jpg" class="image-link" title="Project Light Box Gallery Title"> <img src="images/gallery-thumb-4.jpg"  alt="" class="img-responsive"/> </a>
+            <a href="pictures/gallery/gallery-17.jpg" class="image-link" title="Galerie - TODO popisek"> <img src="pictures/gallery/thumbs/gallery-thumb-17.jpg"  alt="" class="img-responsive"/> </a>
+          </div>
+          <!--Pro thumb start-->
+        </div>        
+        <div class="col-md-4 gallery-block">
+          <!--Project block start-->
+          <div class="gallery-thumb zoom-pic">
+            <!--Pro thumb start-->
+            <a href="pictures/gallery/gallery-18.jpg" class="image-link" title="Galerie - TODO popisek"> <img src="pictures/gallery/thumbs/gallery-thumb-18.jpg"  alt="" class="img-responsive"/> </a>
           </div>
           <!--Pro thumb start-->
         </div>
@@ -78,23 +110,7 @@
           <!--Project block start-->
           <div class="gallery-thumb zoom-pic">
             <!--Pro thumb start-->
-            <a href="images/gallery-thumb-5.jpg" class="image-link" title="Project Light Box Gallery Title"> <img src="images/gallery-thumb-5.jpg"  alt="" class="img-responsive"/> </a>
-          </div>
-          <!--Pro thumb start-->
-        </div>
-        <div class="col-md-4 gallery-block">
-          <!--Project block start-->
-          <div class="gallery-thumb zoom-pic">
-            <!--Pro thumb start-->
-            <a href="images/gallery-thumb-6.jpg" class="image-link" title="Project Light Box Gallery Title"> <img src="images/gallery-thumb-6.jpg"  alt="" class="img-responsive"/> </a>
-          </div>
-          <!--Pro thumb start-->
-        </div>
-        <div class="col-md-4 gallery-block">
-          <!--Project block start-->
-          <div class="gallery-thumb zoom-pic">
-            <!--Pro thumb start-->
-            <a href="images/gallery-thumb-7.jpg" class="image-link" title="Project Light Box Gallery Title"> <img src="images/gallery-thumb-7.jpg"  alt="" class="img-responsive"/> </a>
+            <a href="pictures/gallery/gallery-19.jpg" class="image-link" title="Galerie - TODO popisek"> <img src="pictures/gallery/thumbs/gallery-thumb-19.jpg"  alt="" class="img-responsive"/> </a>
           </div>
           <!--Pro thumb start-->
         </div>
@@ -102,7 +118,7 @@
           <!--Project block start-->
           <div class="gallery-thumb zoom-pic">
             <!--Pro thumb start-->
-            <a href="images/gallery-thumb-8.jpg" class="image-link" title="Project Light Box Gallery Title"> <img src="images/gallery-thumb-8.jpg"  alt="" class="img-responsive"/> </a>
+            <a href="pictures/gallery/gallery-20.jpg" class="image-link" title="Galerie - TODO popisek"> <img src="pictures/gallery/thumbs/gallery-thumb-20.jpg"  alt="" class="img-responsive"/> </a>
           </div>
           <!--Pro thumb start-->
         </div>
@@ -110,7 +126,87 @@
           <!--Project block start-->
           <div class="gallery-thumb zoom-pic">
             <!--Pro thumb start-->
-            <a href="images/gallery-thumb-9.jpg" class="image-link" title="Project Light Box Gallery Title"> <img src="images/gallery-thumb-9.jpg"  alt="" class="img-responsive"/> </a>
+            <a href="pictures/gallery/gallery-21.jpg" class="image-link" title="Galerie - TODO popisek"> <img src="pictures/gallery/thumbs/gallery-thumb-21.jpg"  alt="" class="img-responsive"/> </a>
+          </div>
+          <!--Pro thumb start-->
+        </div>
+        <div class="col-md-4 gallery-block">
+          <!--Project block start-->
+          <div class="gallery-thumb zoom-pic">
+            <!--Pro thumb start-->
+            <a href="pictures/gallery/gallery-22.jpg" class="image-link" title="Galerie - TODO popisek"> <img src="pictures/gallery/thumbs/gallery-thumb-22.jpg"  alt="" class="img-responsive"/> </a>
+          </div>
+          <!--Pro thumb start-->
+        </div>
+        <div class="col-md-4 gallery-block">
+          <!--Project block start-->
+          <div class="gallery-thumb zoom-pic">
+            <!--Pro thumb start-->
+            <a href="pictures/gallery/gallery-1.jpg" class="image-link" title="Galerie - TODO popisek"> <img src="pictures/gallery/thumbs/gallery-thumb-1.jpg"  alt="" class="img-responsive"/> </a>
+          </div>
+          <!--Pro thumb start-->
+        </div>
+        <div class="col-md-4 gallery-block">
+          <!--Project block start-->
+          <div class="gallery-thumb zoom-pic">
+            <!--Pro thumb start-->
+            <a href="pictures/gallery/gallery-3.jpg" class="image-link" title="Galerie - TODO popisek"> <img src="pictures/gallery/thumbs/gallery-thumb-3.jpg"  alt="" class="img-responsive"/> </a>
+          </div>
+          <!--Pro thumb start-->
+        </div>
+        <div class="col-md-4 gallery-block">
+          <!--Project block start-->
+          <div class="gallery-thumb zoom-pic">
+            <!--Pro thumb start-->
+            <a href="pictures/gallery/gallery-4.jpg" class="image-link" title="Galerie - TODO popisek"> <img src="pictures/gallery/thumbs/gallery-thumb-4.jpg"  alt="" class="img-responsive"/> </a>
+          </div>
+          <!--Pro thumb start-->
+        </div>
+        <div class="col-md-4 gallery-block">
+          <!--Project block start-->
+          <div class="gallery-thumb zoom-pic">
+            <!--Pro thumb start-->
+            <a href="pictures/gallery/gallery-6.jpg" class="image-link" title="Galerie - TODO popisek"> <img src="pictures/gallery/thumbs/gallery-thumb-6.jpg"  alt="" class="img-responsive"/> </a>
+          </div>
+          <!--Pro thumb start-->
+        </div>
+        <div class="col-md-4 gallery-block">
+          <!--Project block start-->
+          <div class="gallery-thumb zoom-pic">
+            <!--Pro thumb start-->
+            <a href="pictures/gallery/gallery-7.jpg" class="image-link" title="Galerie - TODO popisek"> <img src="pictures/gallery/thumbs/gallery-thumb-7.jpg"  alt="" class="img-responsive"/> </a>
+          </div>
+          <!--Pro thumb start-->
+        </div>
+        <div class="col-md-4 gallery-block">
+          <!--Project block start-->
+          <div class="gallery-thumb zoom-pic">
+            <!--Pro thumb start-->
+            <a href="pictures/gallery/gallery-9.jpg" class="image-link" title="Galerie - TODO popisek"> <img src="pictures/gallery/thumbs/gallery-thumb-9.jpg"  alt="" class="img-responsive"/> </a>
+          </div>
+          <!--Pro thumb start-->
+        </div>
+        <div class="col-md-4 gallery-block">
+          <!--Project block start-->
+          <div class="gallery-thumb zoom-pic">
+            <!--Pro thumb start-->
+            <a href="pictures/gallery/gallery-10.jpg" class="image-link" title="Galerie - TODO popisek"> <img src="pictures/gallery/thumbs/gallery-thumb-10.jpg"  alt="" class="img-responsive"/> </a>
+          </div>
+          <!--Pro thumb start-->
+        </div>
+        <div class="col-md-4 gallery-block">
+          <!--Project block start-->
+          <div class="gallery-thumb zoom-pic">
+            <!--Pro thumb start-->
+            <a href="pictures/gallery/gallery-13.jpg" class="image-link" title="Galerie - TODO popisek"> <img src="pictures/gallery/thumbs/gallery-thumb-13.jpg"  alt="" class="img-responsive"/> </a>
+          </div>
+          <!--Pro thumb start-->
+        </div>
+        <div class="col-md-4 gallery-block">
+          <!--Project block start-->
+          <div class="gallery-thumb zoom-pic">
+            <!--Pro thumb start-->
+            <a href="pictures/gallery/gallery-11.jpg" class="image-link" title="Galerie - TODO popisek"> <img src="pictures/gallery/thumbs/gallery-thumb-11.jpg"  alt="" class="img-responsive"/> </a>
           </div>
           <!--Pro thumb start-->
         </div>

@@ -56,7 +56,7 @@
                 <li>Jak být fit v průběhu těhotenství a po porodu.</li>
                 <li>… a jiná témata.</li>                
               </ul>
-              <div class="service-img zoom-pic"> <img src="images/service-8.jpg" alt="" class="img-responsive"></div>
+              <div class="service-img zoom-pic"> <img src="pictures/service-6.jpg" alt="" class="img-responsive"></div>
             </div>
           </div>
         </div>

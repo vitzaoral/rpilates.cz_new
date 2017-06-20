@@ -25,7 +25,7 @@
     <!-- main-container -->
     <div class="container">
       <div class="row">
-        <div class="col-md-6 error-pic"><img src="images/404-icon.png" alt="" class="img-responsive"></div>
+        <div class="col-md-6 error-pic"><img src="pictures/404-icon.png" alt="" class="img-responsive"></div>
         <div class="col-md-offset-1 col-md-5 error-description">
           <h1 class="error-title">404 Chyba</h1>
           <h5 class="small-title left">Stránka nenalezena</h5>

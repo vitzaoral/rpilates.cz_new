@@ -42,7 +42,7 @@ function setMarkers(map) {
   for (var i = 0; i < beaches.length; i++) {
     var beach = beaches[i];
     var image = {
-      url: 'images/' + beach[4],
+      url: 'pictures/' + beach[4],
 
       // This marker is 20 pixels wide by 32 pixels high.
       size: new google.maps.Size(32, 49),

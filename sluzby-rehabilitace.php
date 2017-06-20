@@ -66,7 +66,7 @@
                 <li>Vyšetření (kineziologický rozbor, orientační neurologické a ortopedické vyšetření) </li>
                 <li>Individuální terapie trvající 30 min, 45 min nebo 60 min (dle domluvy a rozsahu obtíží)</li>
               </ul>
-              <div class="service-img zoom-pic"> <img src="images/service-8.jpg" alt="" class="img-responsive"></div>
+              <div class="service-img zoom-pic"> <img src="pictures/service-1.jpg" alt="" class="img-responsive"></div>
             </div>
           </div>
         </div>

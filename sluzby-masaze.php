@@ -51,7 +51,7 @@
                 <li>Masáže sportovní</li>
                 <li>Masáže horkými lávovými kameny</li>               
               </ul>              
-              <div class="service-img zoom-pic"> <img src="images/service-8.jpg" alt="" class="img-responsive"></div>
+              <div class="service-img zoom-pic"> <img src="pictures/service-3.jpg" alt="" class="img-responsive"></div>
             </div>
           </div>
         </div>
