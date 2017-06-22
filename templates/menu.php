@@ -15,7 +15,7 @@
                 <a href=<?php echo INDEX ?>>Úvod</a>
             </li>
             <li <?php echo ($page == 'about') ? "class='active'" : ""; ?>>
-                <a href=<?php echo ABOUT ?>>O mě</a></li>
+                <a href=<?php echo ABOUT ?>>O nás</a></li>
             <li <?php echo ($page == 'gallery') ? "class='active'" : ""; ?>> 
                 <a href=<?php echo GALLERY ?>>Galerie </a>
             </li>

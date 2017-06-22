@@ -21,7 +21,7 @@
           <!-- breadcrumb -->
           <ol class="breadcrumb">
             <li><a href="index.php">Úvod</a></li>
-            <li class="active">O mě</li>
+            <li class="active">O nás</li>
           </ol>
         </div>
         <!-- /.breadcrumb -->
@@ -40,7 +40,7 @@
             <span class="trainer-meta">fyzioterapeut</span> </div>
         </div>
         <div class="col-md-offset-1 col-md-7 profile-desciption">
-          <h5 class="small-title left">O mě</h5>
+          <h5 class="small-title left">O nás</h5>
           <p class="lead">Mojí alma mater se stala Fakulta tělesné kultury Univerzity Palackého v Olomouci, kde jsem vystudovala magisterský
             obor Fyzioterapie a bakalářský obor Aplikované pohybové aktivity, na který jsem navázala studiem doktorským.</p>
           <p>Propojení jmenovaných oborů mě předurčilo k zaměření se na oblast sportovní fyzioterapie a léčebné tělesné výchovy.

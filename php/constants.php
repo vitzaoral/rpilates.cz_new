@@ -1,6 +1,6 @@
  <?php
 define("INDEX", "index");
-define("ABOUT", "o-me");
+define("ABOUT", "o-nas");
 define("GALLERY", "galerie");
 
 define("SERVICE", "sluzby");

@@ -34,7 +34,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-5">
-          <h1>Mé nabízené služby</h1>
+          <h1>Nabízené služby</h1>
           <h5 class="small-title left">Seznam služeb</h5>
         </div>
         <div class="col-md-7">
@@ -86,7 +86,7 @@
             <div class="col-md-offset-1 col-md-6 line service-desc">
               <h2><a href=<?php echo SERVICE3 ?> class="service-title">Masáže</a></h2>
               <p>Masáže jsou vhodným prostředkem ke zmírňování bolesti, napětí a stresu. Pomáhají zlepšit krevní oběh a uvolňují
-                napětí organizmu. Nabízím masáže celkové – celotělové – obvyklá délka procedury je 60 minut, nebo částečné
+                napětí organizmu. Nabízíme masáže celkové – celotělové – obvyklá délka procedury je 60 minut, nebo částečné
                 (oblasti šíje, zad, dolních končetin, plosky, pánve, hrudníku, břicha) s obvyklou délkou procedury 30 minut.
                 Masáže je vhodné kombinovat s procedurami termoterapie (předehřátí za pomoci rašelinových sáčků, lávových
                 kamenů, gelových sáčků) a aromaterapie.</p>
@@ -111,7 +111,7 @@
             <!-- /.service-pic-->
             <div class="col-md-offset-1 col-md-6 line-left service-desc">
               <h2><a href=<?php echo SERVICE4 ?> class="service-title">Skupinové zdravotní cvičení</a></h2>
-              <p>Nabízím sestavy rehabilitačního cvičení: na velkých míčích, pro bolavá záda, cvičení těhotných žen a žen po
+              <p>Nabízíme sestavy rehabilitačního cvičení: na velkých míčích, pro bolavá záda, cvičení těhotných žen a žen po
                 porodu, cvičení pánevního dna, cvičení na závěsných lanech Redcord a další.</p>
               <a href=<?php echo SERVICE4 ?> class="btn btn-default hvr-sweep-to-right">Zjistit více ></a> </div>
           </div>
@@ -148,7 +148,7 @@
             <!-- /.service-pic-->
             <div class="col-md-offset-1 col-md-6 line-left service-desc">
               <h2><a href=<?php echo SERVICE6 ?> class="service-title">Poradenství – víkendové kurzy</a></h2>
-              <p>Nabízím Vám individuální či skupinové poradenství s fyzioterapeutem. Pořádám také víkendové vzdělávací kurzy</p>
+              <p>Nabízíme Vám individuální či skupinové poradenství s fyzioterapeutem. Pořádám také víkendové vzdělávací kurzy</p>
               <a href=<?php echo SERVICE6 ?> class="btn btn-default hvr-sweep-to-right">Zjistit více ></a> </div>
           </div>
         </div>
