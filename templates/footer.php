@@ -35,8 +35,8 @@
           <div class="col-md-6 copyright">&copy; <?php echo date("Y"); ?> Rpilates.cz</div>
           <div class="col-md-6 soical-block">
             <ul class="listnone">
-              <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-              <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+              <li><a href=<?php echo FACEBOOK ?> target="_blank" title="Podívejte se na naše Facebook stránky."><i class="fa fa-facebook"></i></a></li>
+              <!-- <li><a href="#"><i class="fa fa-linkedin"></i></a></li> -->
             </ul>
           </div>
         </div>

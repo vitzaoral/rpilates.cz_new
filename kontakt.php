@@ -91,7 +91,7 @@
                 <p><?php echo ADDRESS ?></p>
                 <h3 class="small-title">E-mail:</h3>
                 <p><a href="mailto:<?php echo EMAIL ?>"><?php echo EMAIL ?></a></p>
-                <h3 class="small-title">phone: </h3>
+                <h3 class="small-title">Telefon: </h3>
                 <p><?php echo PHONE ?></p>
                 <h3 class="small-title">IČO: </h3>
                 <p><?php echo ICO ?></p>
@@ -153,8 +153,7 @@
 
       // samotne odeslani emailu
       jQuery.ajax({
-        type: "POST",
-        // TODO zmenit URL
+        type: "POST",        
         url: "php/mail.php",
         data: $(thisForm).serialize(),
 

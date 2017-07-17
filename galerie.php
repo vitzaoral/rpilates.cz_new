@@ -9,7 +9,7 @@
 <body>
   <!-- menu -->
   <?php $page = 'gallery'; include "templates/menu.php" ?>
-  
+
   <div class="page-header">
     <!-- page-header -->
     <div class="container">
@@ -38,23 +38,24 @@
           <h5 class="small-title left">Podívejte se, jak to u mě vypadá</h5>
         </div>
         <div class="col-md-7">
-          <p class="lead">R- pilates studio je vybaveno kvalitními moderními cvičebními a rehabilitačními pomůckami, které byly zakoupeny díky finanční podpoře nadačního fondu Veolia. Děkujeme.</p>
+          <p class="lead">R- pilates studio je vybaveno kvalitními moderními cvičebními a rehabilitačními pomůckami, které byly zakoupeny
+            díky finanční podpoře nadačního fondu Veolia. Děkujeme.</p>
         </div>
       </div>
       <div class="row">
+        <div class="col-md-4 gallery-block">
+          <!--Project block start-->         
+            <!--Pro thumb start-->
+            <a href="pictures/gallery/nadace_veolia_logo_2014.jpg" class="image-link" title="R- pilates studio je vybaveno kvalitními moderními cvičebními a rehabilitačními pomůckami, které byly zakoupeny díky finanční podpoře nadačního fondu Veolia. Děkujeme."> 
+            <img src="pictures/gallery/thumbs/nadace_veolia_logo_2014_thumb.png"  alt="" class="img-responsive"/> 
+            </a>          
+          <!--Pro thumb start-->
+        </div>
         <div class="col-md-4 gallery-block">
           <!--Project block start-->
           <div class="gallery-thumb zoom-pic">
             <!--Pro thumb start-->
             <a href="pictures/gallery/gallery-2.jpg" class="image-link" title="Mobilizační ošetření bederní části zad"> <img src="pictures/gallery/thumbs/gallery-thumb-2.jpg"  alt="" class="img-responsive"/> </a>
-          </div>
-          <!--Pro thumb start-->
-        </div>
-        <div class="col-md-4 gallery-block">
-          <!--Project block start-->
-          <div class="gallery-thumb zoom-pic ">
-            <!--Pro thumb start-->
-            <a href="pictures/gallery/gallery-8.jpg" class="image-link" title="Cvičení s moderními pomůckami (pilates kruhy)"> <img src="pictures/gallery/thumbs/gallery-thumb-8.jpg"  alt="" class="img-responsive"/> </a>
           </div>
           <!--Pro thumb start-->
         </div>
@@ -76,14 +77,6 @@
         </div>
         <div class="col-md-4 gallery-block">
           <!--Project block start-->
-          <div class="gallery-thumb zoom-pic ">
-            <!--Pro thumb start-->
-            <a href="pictures/gallery/gallery-15.jpg" class="image-link" title="Aktivace hlubokého stabilizačního systému páteře"> <img src="pictures/gallery/thumbs/gallery-thumb-15.jpg"  alt="" class="img-responsive"/> </a>
-          </div>
-          <!--Pro thumb start-->
-        </div>
-        <div class="col-md-4 gallery-block">
-          <!--Project block start-->
           <div class="gallery-thumb zoom-pic">
             <!--Pro thumb start-->
             <a href="pictures/gallery/gallery-16.jpg" class="image-link" title="Mobilizace krční páteře"> <img src="pictures/gallery/thumbs/gallery-thumb-16.jpg"  alt="" class="img-responsive"/> </a>
@@ -97,7 +90,15 @@
             <a href="pictures/gallery/gallery-17.jpg" class="image-link" title="Kineziotejp - poranění vazů kolene"> <img src="pictures/gallery/thumbs/gallery-thumb-17.jpg"  alt="" class="img-responsive"/> </a>
           </div>
           <!--Pro thumb start-->
-        </div>        
+        </div>
+         <div class="col-md-4 gallery-block">
+          <!--Project block start-->
+          <div class="gallery-thumb zoom-pic">
+            <!--Pro thumb start-->
+            <a href="pictures/gallery/gallery-19.jpg" class="image-link" title="Zdravotní cvičení na balančních podložkách"> <img src="pictures/gallery/thumbs/gallery-thumb-19.jpg"  alt="" class="img-responsive"/> </a>
+          </div>
+          <!--Pro thumb start-->
+        </div>
         <div class="col-md-4 gallery-block">
           <!--Project block start-->
           <div class="gallery-thumb zoom-pic">
@@ -106,14 +107,7 @@
           </div>
           <!--Pro thumb start-->
         </div>
-        <div class="col-md-4 gallery-block">
-          <!--Project block start-->
-          <div class="gallery-thumb zoom-pic">
-            <!--Pro thumb start-->
-            <a href="pictures/gallery/gallery-19.jpg" class="image-link" title="Zdravotní cvičení na balančních podložkách"> <img src="pictures/gallery/thumbs/gallery-thumb-19.jpg"  alt="" class="img-responsive"/> </a>
-          </div>
-          <!--Pro thumb start-->
-        </div>
+       
         <div class="col-md-4 gallery-block ">
           <!--Project block start-->
           <div class="gallery-thumb zoom-pic">
@@ -121,23 +115,9 @@
             <a href="pictures/gallery/gallery-20.jpg" class="image-link" title="Pilates metoda - 'stovka'"> <img src="pictures/gallery/thumbs/gallery-thumb-20.jpg"  alt="" class="img-responsive"/> </a>
           </div>
           <!--Pro thumb start-->
-        </div>
-        <div class="col-md-4 gallery-block">
-          <!--Project block start-->
-          <div class="gallery-thumb zoom-pic">
-            <!--Pro thumb start-->
-            <a href="pictures/gallery/gallery-21.jpg" class="image-link" title="Ta už tam jednou je... 5"> <img src="pictures/gallery/thumbs/gallery-thumb-21.jpg"  alt="" class="img-responsive"/> </a>
-          </div>
-          <!--Pro thumb start-->
-        </div>
-        <div class="col-md-4 gallery-block">
-          <!--Project block start-->
-          <div class="gallery-thumb zoom-pic">
-            <!--Pro thumb start-->
-            <a href="pictures/gallery/gallery-22.jpg" class="image-link" title="Ortopedické vyšetření kolene"> <img src="pictures/gallery/thumbs/gallery-thumb-22.jpg"  alt="" class="img-responsive"/> </a>
-          </div>
-          <!--Pro thumb start-->
-        </div>
+        </div>        
+      </div>
+      <div class="row">
         <div class="col-md-4 gallery-block">
           <!--Project block start-->
           <div class="gallery-thumb zoom-pic">

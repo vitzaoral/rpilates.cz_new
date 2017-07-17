@@ -1,11 +1,13 @@
+<?php include "constants.php" ?>
+
 <?php 
 if(isset($_POST['email']) &&
  isset($_POST['fname']) && isset($_POST['lname']) &&
  isset($_POST['phone']) && 
  isset($_POST['message']))
   {	
-	// TODO - kam posílat email
-    $to = "vitzaoral@seznam.cz";	
+	// kam posílat email
+    $to = EMAIL;	
 	
 	// 	email zakaznika
 	$from = $_POST['email'];
