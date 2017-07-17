@@ -6,8 +6,6 @@ Google analytics - https://analytics.google.com/analytics/web/?authuser=1#embed/
 Všechno mám pod účtem vitzaoral@gmail.com
 
 
-- dodat favicon
-
 - menu na mobilech nemá pozadí, podmenu pak nejdou vidět, dodat nějaké pozadí nebo hover
 
 - ceník na indexu - pravá strana je níž     , dělá to btn třída   
