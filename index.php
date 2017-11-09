@@ -203,9 +203,6 @@
                 <li class="list-group-item price-list">Jóga, pilates, powerjóga skupinové<small>(privátní / veřejné, 60 min)</small>
                   <a href=<?php echo PRICING . "#service5" ?> class="btn hvr-sweep-to-right pull-right">Ceník >></a>
                 </li>
-                <li class="list-group-item price-list">Zdravotní cvičení na systému REDCORD<small>(privátní, 60 min)</small>
-                  <a href=<?php echo PRICING . "#service7" ?> class="btn hvr-sweep-to-right pull-right">Ceník >></a>
-                </li>
                 <li class="list-group-item price-list">Víkendový vzdělávací kurz <small>(4 hod)</small>
                   <a href=<?php echo PRICING . "#service8" ?> class="btn hvr-sweep-to-right pull-right">Ceník >></a>
                 </li>

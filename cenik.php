@@ -46,7 +46,7 @@
             <li>V průběhu terapie nebo cvičení možnost hlídání dětí. Vždy jen ale po telefonické domluvě!</li>
             <li>Možnost vystavení dárkového poukazu na všechny typy terapie a zdravotního cvičení.</li>
             <li>Možnost hrazení terapie a zdravotního cvičení benefity Sodexo a Benefit plus.</li>
-            <li>Na volně přístupná cvičení lze zakoupit permanentku (10 vstupů / 700 Kč). Lze kombinovat více druhů cvičení.</li>
+            <li>Na volně přístupná cvičení lze zakoupit permanentku (12 vstupů / 800 Kč). Lze kombinovat více druhů cvičení.</li>
           </ul>
         </div>
       </div>
@@ -128,8 +128,7 @@
             <div class="col-md-4 pricing-desc">
               <!-- pricing-desc -->
               <h2>Zdravotní cvičení skupinové – volně přístupné</h2>
-              <p>Ve volně přístupných lekcí zdravotního cvičení se složení skupiny průběžně mění. Proto je stanovený jednotný program lekce. Je nutné si rezervovat cvičení každý týden. S příchodem nového měsíce může nastat změna v harmonogramu volně přístupných lekcí.</p>
-              <?php $serviceId = "22352"; include "templates/reservanto.html" ?>
+              <p>Aktuální rozvrh lekcí zdravotního cvičení je uveřejněný na <a href=<?php echo FACEBOOK ?> target="_blank">facebookových stránkách</a> R-pilates studia. Na první cvičení je nutné se objednat telefonicky na čísle <strong><?php echo PHONE ?></strong> nebo na emailu <a href="mailto:<?php echo EMAIL ?>"><?php echo EMAIL ?></a>. Cvičení probíhá celoročně ve skupině maximálně 7 osob.</p>
              </div>
             <!-- pricing-desc -->
             <div class="col-md-offset-1 col-md-7 pricing-table">
@@ -171,8 +170,9 @@
             <div class="col-md-4 pricing-desc">
               <!-- pricing-desc -->
               <h2>Jóga, pilates, powerjóga skupinové - veřejné</h2>
-              <p>Výukový program každé lekce je pevně daný. Veřejný kurz probíhá jednou týdně v předem stanoveném čase bez možnosti náhrady. Je nutné se do každé lekce zarezervovat přes on-line rezervační systém.</p>
-              <?php $serviceId = "22353"; include "templates/reservanto.html" ?>             
+              <p>Výukový program každé lekce je pevně daný. Veřejný kurz probíhá jednou týdně v předem stanoveném čase bez možnosti náhrady.
+              Je nutné svoji účast na čtvrtletním kurzu nahlásit na email <a href="mailto:<?php echo EMAIL ?>"><?php echo EMAIL ?></a> nebo telefonicky na čísle <strong><?php echo PHONE ?></strong> před jeho zahájením. 
+              Aktuální rozvrh čtvrtletních kurzů je uveřejněný na <a href=<?php echo FACEBOOK ?> target="_blank">facebookových stránkách</a> R-pilates studia.</p>     
             </div>
             <!-- pricing-desc -->
             <div class="col-md-offset-1 col-md-7 pricing-table">
@@ -180,28 +180,6 @@
               <ul class="list-group">
                 <li class="list-group-item active">Jóga, pilates, powerjóga <span class="pull-right price">Cena</span></li>
                 <li class="list-group-item price-list">Lekce 5 - 7 osob<small>(60 minut)</small> <span class="pull-right price">80 Kč / osoba</span></li>
-              </ul>
-            </div>
-            <!-- /.pricing-table -->
-          </div>
-        </div>
-        <!-- /.pricing-block -->
-        <div class="col-md-12 pricing-block" id="service7">
-          <!-- pricing-block -->
-          <div class="row">
-            <div class="col-md-4 pricing-desc">
-              <!-- pricing-desc -->
-              <h2>Zdravotní cvičení na systému REDCORD (červená lana) - privátní</h2>
-              <p>Vytvořte si skupinu maximálně 3 osob a přijďte si zacvičit s REDCORDEM, s terapeutickým systém závěsných červených lan. Toto cvičení je nutné rezervovat telefonicky na čísle <strong><?php echo PHONE ?></strong>.</p>
-            </div>
-            <!-- pricing-desc -->
-            <div class="col-md-offset-1 col-md-7 pricing-table">
-              <!-- pricing-table -->
-              <ul class="list-group">
-                <li class="list-group-item active">Zdravotní cvičení REDCORD <span class="pull-right price">Cena</span></li>
-                <li class="list-group-item price-list">Cvičení 1 osoba<small>(60 minut)</small> <span class="pull-right price">350 Kč / osoba</span></li>
-                <li class="list-group-item price-list">Cvičení 2 osoby<small>(60 minut)</small> <span class="pull-right price">200 Kč / osoba</span></li>
-                <li class="list-group-item price-list">Cvičení 3 osoby<small>(60 minut)</small> <span class="pull-right price">150 Kč / osoba</span></li>
               </ul>
             </div>
             <!-- /.pricing-table -->

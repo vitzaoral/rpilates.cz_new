@@ -39,18 +39,15 @@
         <div class="col-md-8 content-left">
           <div class="row">
             <div class="col-md-12">
-              <p class="lead">Všechny typy lekcí skupinového zdravotního cvičení probíhají celoročně, ale nemají stanovený jednotný harmonogram
-                (den a čas cvičení).</p>
-              <p>Poslední týden v měsíci bude vytvořen vždy nový časový plán pro následující měsíc. V rezervačním systému si
-                zvolte požadované cvičení a nabídnou se vám volné termíny lekcí. Cvičení probíhá ve skupině maximálně 7 osob.
+              <p class="lead">
+              Zdravotní cvičení probíhá ve skupině maximálně 7 osob. Malá kapacita umožňuje terapeutce zajistit individuální korekci případných chyb.
               </p>
-              <p>Malá kapacita umožňuje terapeutce zajistit individuální korekci případných chyb. Z důvodu omezené kapacity
-                je tedy nutná včasná rezervace.
+              <p>Z důvodu omezené kapacity je tedy nutná včasná rezervace <a href=<?php echo CONTACT ?>>(emailem nebo telefonicky)</a>.
               </p>
-              <p>Cvičení trvá 60 minut a jeho intenzita se stanovuje aktuálně dle složení skupiny (věk, fyzický fond, zdravotní
-                omezení). Pokud vám nevyhovují termíny a časy volně přístupných lekcí nabízených přes on-linerezervační systém
-                nebo vám nevyhovuje cvičení s větším počtem cizích osob, případně se v nabídce nezobrazuje termín vámi požadovaného
-                cvičení, pak si vytvořte vlastní skupinu a zavolejte si o termín privátních lekcí.
+              <p>Cvičení trvá 60 minut a jeho intenzita se stanovuje aktuálně dle složení skupiny (věk, fyzický fond, zdravotní omezení). Pokud vám nevyhovují termíny a časy volně přístupných lekcí nebo vám nevyhovuje cvičení s větším počtem cizích osob, případně se v nabídce nezobrazuje termín vámi požadovaného cvičení, pak si vytvořte vlastní skupinu a zavolejte si o termín privátních lekcí.
+              </p>
+              <p>
+              Aktuální rozvrh cvičení je uveřejněný na <a href=<?php echo FACEBOOK ?> target="_blank">facebookových stránkách</a> R-pilates studia.
               </p>
               <div class="section-title">
                 <h1>Nabízím sestavy rehabilitačního cvičení</h1>

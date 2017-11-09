@@ -190,6 +190,46 @@
           </div>
           <!--Pro thumb start-->
         </div>
+        <div class="col-md-4 gallery-block">
+          <!--Project block start-->
+          <div class="gallery-thumb zoom-pic">
+            <!--Pro thumb start-->
+            <a href="pictures/gallery/gallery-23.jpg" class="image-link" title="Individuál LTV"> <img src="pictures/gallery/thumbs/gallery-thumb-23.jpg"  alt="" class="img-responsive"/> </a>
+          </div>
+          <!--Pro thumb start-->
+        </div>
+        <div class="col-md-4 gallery-block">
+          <!--Project block start-->
+          <div class="gallery-thumb zoom-pic">
+            <!--Pro thumb start-->
+            <a href="pictures/gallery/gallery-24.jpg" class="image-link" title="Individuál LTV 2"> <img src="pictures/gallery/thumbs/gallery-thumb-24.jpg"  alt="" class="img-responsive"/> </a>
+          </div>
+          <!--Pro thumb start-->
+        </div>
+        <div class="col-md-4 gallery-block">
+          <!--Project block start-->
+          <div class="gallery-thumb zoom-pic">
+            <!--Pro thumb start-->
+            <a href="pictures/gallery/gallery-25.jpg" class="image-link" title="Skupinové LTV"> <img src="pictures/gallery/thumbs/gallery-thumb-25.jpg"  alt="" class="img-responsive"/> </a>
+          </div>
+          <!--Pro thumb start-->
+        </div>
+        <div class="col-md-4 gallery-block">
+          <!--Project block start-->
+          <div class="gallery-thumb zoom-pic">
+            <!--Pro thumb start-->
+            <a href="pictures/gallery/gallery-26.jpg" class="image-link" title="Prázdná cvičebna"> <img src="pictures/gallery/thumbs/gallery-thumb-26.jpg"  alt="" class="img-responsive"/> </a>
+          </div>
+          <!--Pro thumb start-->
+        </div>
+        <div class="col-md-4 gallery-block">
+          <!--Project block start-->
+          <div class="gallery-thumb zoom-pic">
+            <!--Pro thumb start-->
+            <a href="pictures/gallery/gallery-27.jpg" class="image-link" title="Prázdná pracovna"> <img src="pictures/gallery/thumbs/gallery-thumb-27.jpg"  alt="" class="img-responsive"/> </a>
+          </div>
+          <!--Pro thumb start-->
+        </div>
       </div>
     </div>
   </div>

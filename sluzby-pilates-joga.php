@@ -50,9 +50,12 @@
                 problémy, eventuálně zhoršit jeho aktuální stav. Pokud ale pochopíte a přijmete základní principy, tak vám
                 toto cvičení pomůže změnit tělesný vzhled i duševní rozpoložení.
               </p>
-              <p>Pokud vám nevyhovují termíny a časy volně přístupných lekcí nabízených přes on-line rezervační systém nebo
-                vám nevyhovuje cvičení s větším počtem cizích osob, vytvořte si vlastní skupinu a zavolejte si o termín privátních
+              <p>Pokud vám nevyhovují termíny a časy volně přístupných lekcí nebo
+                vám nevyhovuje cvičení s větším počtem cizích osob, vytvořte si vlastní skupinu a  <a href=<?php echo CONTACT ?>>zavolejte</a> si o termín privátních
                 kurzů.
+              </p>
+              <p>
+              Aktuální rozvrh cvičení je uveřejněný na <a href=<?php echo FACEBOOK ?> target="_blank">facebookových stránkách</a> R-pilates studia.
               </p>
               <p class="lead">Nabízím 12ti hodinové kurzy Pilates metody</p>
               <ul class="listnone circle-right">
