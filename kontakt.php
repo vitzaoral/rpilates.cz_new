@@ -37,7 +37,7 @@
         <div class="col-md-8">
           <div class="row">
             <div class="col-md-12">
-              <p class="lead">Pokud máte nějaký dotaz, vyplňte prosím tento formulář:</p>
+              <p class="lead">Pokud se chcete rezervovat nebo máte nějaký dotaz, vyplňte prosím tento formulář:</p>
             </div>
             <div class="col-md-12 application-form">
               <form method="post" id="emailForm">
@@ -166,7 +166,7 @@
             if (parseInt(response) > 0) {
               // v priade uspechu to vraci 1
               $('#messages').removeClass('hide').addClass('alert alert-success').slideDown().show();
-              $('#messages_content').html('<span>Váš dotaz byl v pořádku odeslán.</span>');
+              $('#messages_content').html('<span>Váše zpráva byla v pořádku odeslána.</span>');
               // vycistim form
                $(thisForm).trigger('reset');
             }
@@ -174,14 +174,14 @@
           // neco se nepovedlo
           else {
             $('#messages').removeClass('hide').addClass('alert alert-danger').slideDown().show();
-            $('#messages_content').html('<span>Odeslání dotazu se bohužel nepovedlo. Zkuste to prosím znovu.</span>');
+            $('#messages_content').html('<span>Odeslání zprávy se bohužel nepovedlo. Zkuste to prosím znovu nebo nás kontaktujte jinak.</span>');
           }
         },
 
         error: function (errorObject, errorText, errorHTTP) {
           // spadlo pri POSTU
           $('#messages').removeClass('hide').addClass('alert alert-danger').slideDown().show();
-          $('#messages_content').html('<span>Odeslání dotazu se bohužel nepovedlo. Zkuste to prosím znovu.</span>');
+          $('#messages_content').html('<span>Odeslání zprávy se bohužel nepovedlo. Zkuste to prosím znovu nebo nás kontaktujte jinak.</span>');
           
           // zobrazim odesilaci tlacitko
           $(thisForm).find('input[type="submit"]').show();

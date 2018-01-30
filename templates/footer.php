@@ -25,8 +25,8 @@
           <div class="col-md-3 footer-block">
             <h3>Adresa</h3>
             <p><?php echo ADDRESS ?></p>
-            <p><?php echo PHONE ?></p>
             <p><a href="mailto:<?php echo EMAIL ?>"><?php echo EMAIL ?></a></p>
+            <p>tel.: <?php echo PHONE ?></p>
           </div>
         </div>
         <!-- /.footer section -->

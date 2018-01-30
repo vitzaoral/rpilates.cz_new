@@ -180,11 +180,9 @@
             <div class="col-md-4 pricing-desc">
               <!-- pricing-desc -->
               <h1>Ceník a rezervace</h1>
-              <p>Na jednotlivé programy se lze rezervovat online nebo telefonicky. Případné zrušení rezervovaného termínu je
-                třeba nahlásit minimálně 24 hodin předem na tel. čísle:
-                <strong><?php echo PHONE ?></strong>.
+              <p>Na jednotlivé programy se lze rezervovat nebo telefonicky na čísle <strong><?php echo PHONE ?></strong> nebo přes email <a href="mailto:<?php echo EMAIL ?>"><?php echo EMAIL ?></a>. Případné zrušení rezervovaného termínu je
+                třeba nahlásit minimálně 24 hodin předem telefonicky.
               </p>
-              <?php include "templates/reservanto.html" ?>
             </div>
             <!-- pricing-desc -->
             <div class="col-md-offset-1 col-md-7 pricing-table">

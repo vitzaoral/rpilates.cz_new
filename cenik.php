@@ -39,7 +39,7 @@
           <h5 class="small-title left">Ceník</h5>
         </div>
         <div class="col-md-7">
-          <p class="lead">Pro objednání služeb využijte prosím online rezervaci, email nebo telefonní kontakt.</p>
+          <p class="lead">Pro objednání služeb využijte prosím <a href=<?php echo CONTACT ?>>email nebo telefonní kontakt</a>.</p>
         </div>
         <div class="col-md-12 section-title">
           <ul class="listnone circle-right ">
@@ -57,9 +57,8 @@
             <div class="col-md-4 pricing-desc">
               <!-- pricing-desc -->
               <h2>Rehabilitace</h2>
-              <p>Vyberte si sami délku trvání vašeho klinického vyšetření a terapie prostřednictvím systému on-line rezervace. V akutních případech volejte na telefonní číslo <strong><?php echo PHONE ?></strong> a pokusím se vás ošetřit ještě tentýž den.
+              <p>Vyberte si délku trvání vašeho klinického vyšetření nebo terapie a rezervujte se <a href=<?php echo CONTACT ?>>telefonicky nebo emailem</a>. V akutních případech volejte na telefonní číslo <strong><?php echo PHONE ?></strong> a pokusím se vás ošetřit ještě tentýž den.
               </p>
-              <?php $serviceId = "22347"; include "templates/reservanto.html" ?>
             </div>
             <!-- pricing-desc -->
             <div class="col-md-offset-1 col-md-7 pricing-table">
@@ -81,8 +80,7 @@
             <div class="col-md-4 pricing-desc">
               <!-- pricing-desc -->
               <h2>Masáže</h2>
-              <p>Vyberte si sami druh masáže. Pokud budete požadovat celotělovou masáž, zarezervujte si celou hodinu.   Pokud se bude jednat o částečnou masáž, stačí si rezervovat půl hodiny.</p>
-              <?php $serviceId = "22351"; include "templates/reservanto.html" ?>
+              <p>Pokud budete požadovat celotělovou masáž, zarezervujte si celou hodinu. Pokud se bude jednat o částečnou masáž, stačí si rezervovat půl hodiny. Rezervujte se <a href=<?php echo CONTACT ?>>telefonicky nebo emailem</a>.</p>
              </div>
             <!-- pricing-desc -->
             <div class="col-md-offset-1 col-md-7 pricing-table">
@@ -193,7 +191,7 @@
               <!-- pricing-desc -->
               <h2>Poradenství / víkendový vzdělávací kurz</h2>
               <p>Poradenství si objednejte telefonicky na čísle <strong><?php echo PHONE ?></strong>. Délka poradenství není předem stanovena.</p>
-              <p>Z důvodu praktických částí je kapacita víkendových kurzů omezená. A proto je nutné se přihlásit prostřednictvím online rezervačního systému nebo popřípadě emailu <a href="mailto:<?php echo EMAIL ?>"><?php echo EMAIL ?></a>.</p>
+              <p>Z důvodu praktických částí je kapacita víkendových kurzů omezená, proto je nutné se přihlásit prostřednictvím emailu <a href="mailto:<?php echo EMAIL ?>"><?php echo EMAIL ?></a> nebo telefonicky na čísle <strong><?php echo PHONE ?></strong>.</p>
             </div>
             <!-- pricing-desc -->
             <div class="col-md-offset-1 col-md-7 pricing-table">
