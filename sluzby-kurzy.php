@@ -39,6 +39,17 @@
         <div class="col-md-8 content-left">
           <div class="row">
             <div class="col-md-12">
+              <p class="lead">Několikrát do roka pořádáme víkendové pobyty plné pohybu v oblíbených lokalitách: Lhota pod Kosířem, Dolní Morava, Lázně Jeseník.</p>
+              <ul class="listnone circle-right">
+                <li>Kapacita kurzu je 10-14 osob.</li>
+                <li>Cena dle vybrané lokality od 2700 Kč do 3000 Kč na osobu.</li>
+                <li>Tři lektorky zajišťují celodenní cvičební program. Dva souběžné pohybové programy (venkovní, vnitřní).</li>
+                <li>Sami si vyberete, na jaké lekce chcete absolvovat. Výběr je široký: jóga, pilates, powerjóga, nordic walking, fitness a kardio programy, cvičení na bosu, core-trénink, běžecké tréninky.</li>
+                <li>Večerní wellness a regenerační služby.</li>
+                <li>Možnost využití vyšetření a poradenství s fyzioterapeutem.</li>  
+                <li>Vzdělávací semináře zaměřené na problematiku nutričního poradenství, přírodní kosmetiku, bolesti zad, správného držení těla v průběhu posilování a jiné.</li>
+                <li>Více informací na čísle <strong><?php echo PHONE ?></strong> nebo přes email <a href="mailto:<?php echo EMAIL ?>"><?php echo EMAIL ?></a>.</li>               
+              </ul>
               <p class="lead">Nabízím Vám individuální či skupinové poradenství s fyzioterapeutem.</p>
               <ul class="listnone circle-right">
                 <li>Konzultace vhodných pohybových aktivit a vhodného nastavení těla v průběhu cvičení.</li>
@@ -46,15 +57,10 @@
                 <li>Konzultace ergonomie pracovního prostředí – např. korekce sedu v autě, u PC</li>
                 <li>… a jiná témata.</li>                
               </ul>
-              <p class="lead">Pořádám víkendové kurzy (první sobota v měsíci, 2 hodiny teorie + 2 hodiny praxe)</p>
-              <p>Připravovaná témata vzdělávacích kurzů</p>
+              <p class="lead">Hledáte způsob originální oslavy narozenin, výročí či dovolené?</p>
               <ul class="listnone circle-right">
-                <li>Jak na nordic walking.</li>
-                <li>Jak na bolavá záda.</li>
-                <li>Jak na ploché nohy.</li>
-                <li>Jak na čchi-kung.</li>
-                <li>Jak být fit v průběhu těhotenství a po porodu.</li>
-                <li>… a jiná témata.</li>                
+                <li>Vytvořte skupinu 8 až 12 osob a my vám zajistíme víkendový pohybový program ušitý na míru vašim představám.</li>
+                <li> V případě zájmu nás kontaktujte tel. <strong><?php echo PHONE ?></strong> nebo přes email <a href="mailto:<?php echo EMAIL ?>"><?php echo EMAIL ?></a>.</li>               
               </ul>
               <div class="service-img zoom-pic"> <img src="pictures/service-6.jpg" alt="" class="img-responsive"></div>
             </div>

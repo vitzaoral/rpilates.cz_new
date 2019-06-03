@@ -46,7 +46,7 @@
             <li>V průběhu terapie nebo cvičení možnost hlídání dětí. Vždy jen ale po telefonické domluvě!</li>
             <li>Možnost vystavení dárkového poukazu na všechny typy terapie a zdravotního cvičení.</li>
             <li>Možnost hrazení terapie a zdravotního cvičení benefity Sodexo a Benefit plus.</li>
-            <li>Na volně přístupná cvičení lze zakoupit permanentku (12 vstupů / 800 Kč). Lze kombinovat více druhů cvičení.</li>
+            <li>Na volně přístupná cvičení lze zakoupit permanentku. Lze kombinovat více druhů cvičení.</li>
           </ul>
         </div>
       </div>

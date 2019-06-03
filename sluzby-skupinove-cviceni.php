@@ -88,10 +88,9 @@
                 s početím (funkční sterilita).
               </p>
               <div class="section-title">
-                <h5 class="small-title left">Psychomotorické cvičení dětí od 2 do 4 let věku </h5>
+                <h5 class="small-title left">Léčebná tělesná výchova pro děti</h5>
               </div>
-              <p>Rehabilitační cvičení vedené hravou formou, které čerpá zásobu cviků z Bobath konceptu, jógy pro děti a systému
-                senzomotorických cvičení na balančních plochách.
+              <p> Rehabilitační cvičení vedené hravou formou, které čerpá zásobu cviků z Bobath konceptu, jógy pro děti, DNS konceptu a systému senzomotorických cvičení na balančních plochách. Cílem cvičení je prevence vadného držení těla, ovlivnění svalových dysbalancí a posílení hlubokého stabilizačního systému.
               </p>
               <div class="section-title">
                 <h5 class="small-title left">Zdravotní cvičení na systému REDCORD</h5>
