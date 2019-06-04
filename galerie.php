@@ -234,7 +234,7 @@
           <!--Project block start-->
           <div class="gallery-thumb zoom-pic">
             <!--Pro thumb start-->
-            <a href="pictures/gallery/gallery-28.jpg" class="image-link" title="..."> <img src="pictures/gallery/thumbs/gallery-thumb-28.jpg"  alt="" class="img-responsive"/> </a>
+            <a href="pictures/gallery/gallery-28.jpg" class="image-link" title="Víkendový kurz, Lhota pod Kosířem"> <img src="pictures/gallery/thumbs/gallery-thumb-28.jpg"  alt="" class="img-responsive"/> </a>
           </div>
           <!--Pro thumb start-->
         </div>
@@ -242,7 +242,7 @@
           <!--Project block start-->
           <div class="gallery-thumb zoom-pic">
             <!--Pro thumb start-->
-            <a href="pictures/gallery/gallery-29.jpg" class="image-link" title="..."> <img src="pictures/gallery/thumbs/gallery-thumb-29.jpg"  alt="" class="img-responsive"/> </a>
+            <a href="pictures/gallery/gallery-29.jpg" class="image-link" title="Víkendový kurz, Lhota pod Kosířem"> <img src="pictures/gallery/thumbs/gallery-thumb-29.jpg"  alt="" class="img-responsive"/> </a>
           </div>
           <!--Pro thumb start-->
         </div>
@@ -250,7 +250,7 @@
           <!--Project block start-->
           <div class="gallery-thumb zoom-pic">
             <!--Pro thumb start-->
-            <a href="pictures/gallery/gallery-30.jpg" class="image-link" title="..."> <img src="pictures/gallery/thumbs/gallery-thumb-30.jpg"  alt="" class="img-responsive"/> </a>
+            <a href="pictures/gallery/gallery-30.jpg" class="image-link" title="Víkendový kurz, Lhota pod Kosířem"> <img src="pictures/gallery/thumbs/gallery-thumb-30.jpg"  alt="" class="img-responsive"/> </a>
           </div>
           <!--Pro thumb start-->
         </div>
@@ -258,7 +258,7 @@
           <!--Project block start-->
           <div class="gallery-thumb zoom-pic">
             <!--Pro thumb start-->
-            <a href="pictures/gallery/gallery-31.jpg" class="image-link" title="..."> <img src="pictures/gallery/thumbs/gallery-thumb-31.jpg"  alt="" class="img-responsive"/> </a>
+            <a href="pictures/gallery/gallery-31.jpg" class="image-link" title="Víkendový kurz, Lhota pod Kosířem"> <img src="pictures/gallery/thumbs/gallery-thumb-31.jpg"  alt="" class="img-responsive"/> </a>
           </div>
           <!--Pro thumb start-->
         </div>

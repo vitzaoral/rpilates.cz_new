@@ -196,11 +196,11 @@
             <!-- pricing-desc -->
             <div class="col-md-offset-1 col-md-7 pricing-table">
               <!-- pricing-table -->
-              <ul class="list-group">
+              <!-- <ul class="list-group">
                 <li class="list-group-item active">Kurz <span class="pull-right price">Cena</span></li>
                 <li class="list-group-item price-list">Vzdělávací kurz<small>(4 hodiny)</small> <span class="pull-right price">200 Kč / osoba</span></li>
                 <li class="list-group-item price-list">Poradenství<span class="pull-right price">5 Kč / 1 minuta</span></li>
-              </ul>
+              </ul> -->
             </div>
             <!-- /.pricing-table -->
           </div>
